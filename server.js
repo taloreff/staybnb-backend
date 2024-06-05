@@ -6,6 +6,7 @@ const cors = require("cors");
 env.config();
 const app = express();
 const PORT = process.env.PORT || 3030;
+
 const MongoDB = process.env.MongoDB;
 
 console.log("MongoDB", MongoDB);
