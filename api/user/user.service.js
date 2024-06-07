@@ -13,12 +13,18 @@ export const userService = {
     getByUsername // Used for Login
 }
 
+const users = await query()
+console.log(users)
+
 async function query(filterBy = {}) {
     const criteria = _buildCriteria(filterBy)
     try {
-        const collection = await dbService.getCollection('user')
+        const collection = await dbService.getCollection('users')
+        console.log("1 collection", collection)
         var users = await collection.find(criteria).toArray()
+        console.log("2 users", users)
         users = users.map(user => {
+            console.log("3 user", user._id)
             delete user.password
             user.createdAt = new ObjectId(user._id).getTimestamp()
             // Returning fake fresh data

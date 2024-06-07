@@ -1,25 +1,16 @@
 import express, { json } from "express";
 import { createServer } from "node:http";
-import { fileURLToPath } from "node:url";
-import { dirname, join } from "node:path";
 import { Server } from "socket.io";
-import { connect, Schema, model } from "mongoose";
 import { config } from "dotenv";
+import path from "path";
 import cors from "cors";
 import cookieParser from "cookie-parser";
+import "dotenv/config.js";
 
-config();
 const app = express();
 const server = createServer(app);
-const io = new Server(server);
 
 const PORT = process.env.PORT || 3030;
-// const MongoDB = process.env.MongoDB;
-
-// console.log("MongoDB", MongoDB);
-// connect(MongoDB)
-//   .then(() => console.log("MongoDB connected"))
-//   .catch((err) => console.error("MongoDB connection error:", err));
 
 if (process.env.NODE_ENV === 'production') {
   app.use(express.static(path.resolve('public')))
