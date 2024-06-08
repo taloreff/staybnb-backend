@@ -1,4 +1,4 @@
 export default {
-    dbURL: 'mongodb+srv://theUser:thePass@cluster0-klgzh.mongodb.net/test?retryWrites=true&w=majority',
-    dbName: 'miss_bug_db',
+    dbURL: 'mongodb+srv://taloreff:3sSn2ZD1p19GjruU@staybnb.bzx3y9d.mongodb.net/',
+    dbName: 'Staybnb',
 }

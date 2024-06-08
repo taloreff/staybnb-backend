@@ -238,3 +238,7 @@
 8.6.2024, 20:33:40 - ERROR - Failed to Login Unkown username 
 8.6.2024, 20:34:58 - INFO - User login:  | {"_id":"6664956f081edc04fdba1fe4","fullname":"taloreff","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
 8.6.2024, 20:37:08 - INFO - User login:  | {"_id":"6664956f081edc04fdba1fe4","fullname":"taloreff","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+8.6.2024, 20:57:11 - INFO - Connected to DB 
+8.6.2024, 20:57:18 - INFO - Connected to DB 
+8.6.2024, 20:57:32 - INFO - User login:  | {"_id":"6664956f081edc04fdba1fe4","fullname":"taloreff","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 20:57:54 - INFO - User login:  | {"_id":"6664956f081edc04fdba1fe4","fullname":"taloreff","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6664956f081edc04fdba1fe4)

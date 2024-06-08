@@ -1,8 +1,8 @@
 import { stayService } from "./stay.service.js"
 import { authService } from '../auth/auth.service.js'
-import { loggerService } from "../../services/logger.service.js"
+import { logger } from '../../services/logger.service.js'
 
-export async function getStays(req, res){
+export async function getStays(req, res) {
     const { title, severity, label, pageIdx, sortBy } = req.query
     const filterBy = { title, severity: +severity, label, pageIdx, sortBy }
 
@@ -22,7 +22,7 @@ export async function getStay(req, res) {
         // console.log('stayId:', stayId)
         let visitedStays = req.cookies.visitedStays || []
         if (visitedStays.length > 2) return res.status(401).send('Wait for a bit');
-        if (!visitedStays.includes(stayId)) visitedStays.push(stayId) 
+        if (!visitedStays.includes(stayId)) visitedStays.push(stayId)
         res.cookie('visitedStays', visitedStays, { maxAge: 7 * 1000 })
 
         const stay = await stayService.getById(stayId)
@@ -35,8 +35,8 @@ export async function getStay(req, res) {
 }
 
 export async function removeStay(req, res) {
-    
-    const {stayId} = req.params
+
+    const { stayId } = req.params
     // const loggedinUser = authService.validateToken(req.cookies.loginToken)
     // if (!loggedinUser) return res.status(401).send('Not authenticated')
 
@@ -49,8 +49,8 @@ export async function removeStay(req, res) {
     }
 }
 
-export async function updateStay(req, res){
-    const { _id, title, severity, description, labels } = req.body 
+export async function updateStay(req, res) {
+    const { _id, title, severity, description, labels } = req.body
     let stayToSave = { _id, title, severity: +severity, description, labels }
 
     // const loggedinUser = authService.validateToken(req.cookies.loginToken)
@@ -65,10 +65,10 @@ export async function updateStay(req, res){
     }
 }
 
-export async function addStay(req, res){
-    const { title, severity, description, labels } = req.body 
+export async function addStay(req, res) {
+    const { title, severity, description, labels } = req.body
     let stayToSave = { title, severity: +severity, description, labels }
-    
+
     // const loggedinUser = authService.validateToken(req.cookies.loginToken)
     // if (!loggedinUser) return res.status(401).send('Not authenticated')
 
