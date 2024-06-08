@@ -1,122 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>Socket.IO chat</title>
-  <style>
-    body {
-      margin: 0;
-      padding-bottom: 3rem;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    }
-
-    .form {
-      background: rgba(0, 0, 0, 0.15);
-      padding: 0.25rem;
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      display: flex;
-      height: 3rem;
-      box-sizing: border-box;
-      backdrop-filter: blur(10px);
-    }
-
-    .input {
-      border: none;
-      padding: 0 1rem;
-      flex-grow: 1;
-      border-radius: 2rem;
-      margin: 0.25rem;
-    }
-
-    .input:focus {
-      outline: none;
-    }
-
-    .form>button {
-      background: #333;
-      border: none;
-      padding: 0 1rem;
-      margin: 0.25rem;
-      border-radius: 3px;
-      outline: none;
-      color: #fff;
-    }
-
-    .messages {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-    }
-
-    .messages>li {
-      padding: 0.5rem 1rem;
-    }
-
-    .messages>li:nth-child(odd) {
-      background: #efefef;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
 </head>
 
 <body>
-
-  <label for="">
-    <input type="radio" value="politics" name="topic" onchange="setTopic(this.value)">
-    Politics
-  </label>
-  <label for="">
-    <input type="radio" value="love" name="topic" onchange="setTopic(this.value)" checked>
-    Love
-  </label>
-  <ul class="messages"></ul>
-  <form class="form" action="" onsubmit="onSendMsg(event)">
-    <input class="input" autocomplete="off" /><button>Send</button>
-  </form>
-
-  <script src="/socket.io/socket.io.js"></script>
-  <script>
-    const socket = io();
-    var gTopic = 'love';
-    setTopic('love')
-    const nickname = sessionStorage.nickname || prompt('Enter your nickname');
-    sessionStorage.nickname = nickname
-
-    socket.emit('set-user-socket', nickname)
-
-    socket.on("add-msg", (msg) => {
-      addMsg(msg);
-    });
-
-    socket.on("add-msgs", (msgs) => {
-      document.querySelector('.messages').innerHTML = '';
-      msgs.forEach(msg => addMsg(msg));
-    });
-
-    function setTopic(topic) {
-      gTopic = topic;
-      socket.emit('set-topic', topic);
-    }
-
-    function addMsg(msg) {
-      const by = msg.by === nickname ? 'Me' : msg.by;
-      const elMsgs = document.querySelector('.messages').innerHTML += `<li><b>${by}</b> ${msg.txt}</li>`;
-    }
-
-    function onSendMsg(e) {
-      const elInput = document.querySelector('.input');
-      e.preventDefault();
-      if (elInput.value) {
-
-        const msg = { txt: elInput.value, by: nickname, topic: gTopic };
-        socket.emit('send-msg', msg);
-        elInput.value = '';
-      }
-    };
-  </script>
+    <h1>Welcome to Staybnb server</h1>
 </body>
 
 </html>

@@ -14,17 +14,13 @@ export const userService = {
 }
 
 const users = await query()
-console.log(users)
 
 async function query(filterBy = {}) {
     const criteria = _buildCriteria(filterBy)
     try {
         const collection = await dbService.getCollection('users')
-        console.log("1 collection", collection)
         var users = await collection.find(criteria).toArray()
-        console.log("2 users", users)
         users = users.map(user => {
-            console.log("3 user", user._id)
             delete user.password
             user.createdAt = new ObjectId(user._id).getTimestamp()
             // Returning fake fresh data
@@ -57,13 +53,15 @@ async function getById(userId) {
         throw err
     }
 }
-async function getByUsername(username) {
+
+async function getByUsername(fullname) {
     try {
-        const collection = await dbService.getCollection('user')
-        const user = await collection.findOne({ username })
+        console.log(" getByUsername fullname", fullname)
+        const collection = await dbService.getCollection('users')
+        const user = await collection.findOne({ fullname })
         return user
     } catch (err) {
-        logger.error(`while finding user by username: ${username}`, err)
+        logger.error(`while finding user by fullname: ${fullname}`, err)
         throw err
     }
 }
@@ -99,13 +97,13 @@ async function add(user) {
     try {
         // peek only updatable fields!
         const userToAdd = {
-            username: user.username,
             password: user.password,
             fullname: user.fullname,
             imgUrl: user.imgUrl,
-            score: 100
+            email: user.email,
         }
-        const collection = await dbService.getCollection('user')
+        logger.debug(userToAdd)
+        const collection = await dbService.getCollection('users')
         await collection.insertOne(userToAdd)
         return userToAdd
     } catch (err) {
