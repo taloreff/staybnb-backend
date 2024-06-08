@@ -242,3 +242,30 @@
 8.6.2024, 20:57:18 - INFO - Connected to DB 
 8.6.2024, 20:57:32 - INFO - User login:  | {"_id":"6664956f081edc04fdba1fe4","fullname":"taloreff","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6664956f081edc04fdba1fe4)
 8.6.2024, 20:57:54 - INFO - User login:  | {"_id":"6664956f081edc04fdba1fe4","fullname":"taloreff","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 20:58:42 - INFO - Connected to DB 
+8.6.2024, 21:04:44 - INFO - Connected to DB 
+8.6.2024, 21:04:49 - INFO - Connected to DB 
+8.6.2024, 21:04:56 - INFO - Connected to DB 
+8.6.2024, 21:05:00 - INFO - Connected to DB 
+8.6.2024, 21:05:41 - INFO - Connected to DB 
+8.6.2024, 21:06:41 - INFO - Connected to DB 
+8.6.2024, 21:07:13 - INFO - Connected to DB 
+8.6.2024, 21:07:44 - INFO - Connected to DB 
+8.6.2024, 21:07:47 - INFO - Connected to DB 
+8.6.2024, 21:18:48 - INFO - Connected to DB 
+8.6.2024, 21:18:48 - INFO - Connected to DB 
+8.6.2024, 21:22:15 - INFO - Connected to DB 
+8.6.2024, 21:22:15 - INFO - Connected to DB 
+8.6.2024, 21:29:03 - INFO - Connected to DB 
+8.6.2024, 21:29:03 - INFO - Connected to DB 
+8.6.2024, 21:31:03 - INFO - Connected to DB 
+8.6.2024, 21:31:04 - INFO - Connected to DB 
+8.6.2024, 21:31:19 - ERROR - Cannot save order | TypeError: orderService.save is not a function (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:31:46 - INFO - Connected to DB 
+8.6.2024, 21:31:46 - INFO - Connected to DB 
+8.6.2024, 21:32:00 - INFO - Connected to DB 
+8.6.2024, 21:32:00 - INFO - Connected to DB 
+8.6.2024, 21:32:22 - DEBUG - {"totalPrice":960,"startDate":"2024-07-02","endDate":"2024-07-10","guests":{"adults":2,"kids":2},"status":"pending"} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:34:40 - INFO - Connected to DB 
+8.6.2024, 21:34:40 - INFO - Connected to DB 
+8.6.2024, 21:34:59 - DEBUG - {"totalPrice":840,"startDate":"2024-07-03","endDate":"2024-07-10","guests":{"adults":2,"kids":2},"status":"pending","hostId":"63bafeb80000000000000103","buyer":{"_id":"6664956f081edc04fdba1fe4","fullname":"taloreff"},"stay":{"_id":"s103","name":"Ocean View Villa","price":120}} (userId: 6664956f081edc04fdba1fe4)
