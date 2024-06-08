@@ -3,16 +3,27 @@ import { authService } from '../auth/auth.service.js'
 import { logger } from '../../services/logger.service.js'
 
 export async function getStays(req, res) {
-    const { title, severity, label, pageIdx, sortBy } = req.query
-    const filterBy = { title, severity: +severity, label, pageIdx, sortBy }
-
     try {
-        const loggedinUser = authService.validateToken(req.cookies.loginToken)
+        logger.debug('Getting Stays:', req.query)
+        const filterBy = {
+            category_tag: req.query.category_tag || '',
+            amenities: req.query.amenities || [],
+            property_types: req.query.property_types || [],
+            price_min: req.query.price_min || 0,
+            price_max: req.query.price_max || Infinity,
+            beds: req.query.beds || 0,
+            bedrooms: req.query.bedrooms || 0,
+            bath: req.query.bath || 0,
+            capacity: req.query.capacity || 0,
+            country: req.query.country || '',
+            startDate: req.query.startDate || '',
+            endDate: req.query.endDate || '',
+        }
         const stays = await stayService.query(filterBy)
-        res.send(stays)
+        res.json(stays)
     } catch (err) {
-        loggerService.error(`Cannot get stays`, err)
-        res.status(400).send(`Cannot'nt get stays`)
+        logger.error('Failed to get stays', err)
+        res.status(400).send({ err: 'Failed to get stays' })
     }
 }
 

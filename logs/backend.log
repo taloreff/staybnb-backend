@@ -269,3 +269,97 @@
 8.6.2024, 21:34:40 - INFO - Connected to DB 
 8.6.2024, 21:34:40 - INFO - Connected to DB 
 8.6.2024, 21:34:59 - DEBUG - {"totalPrice":840,"startDate":"2024-07-03","endDate":"2024-07-10","guests":{"adults":2,"kids":2},"status":"pending","hostId":"63bafeb80000000000000103","buyer":{"_id":"6664956f081edc04fdba1fe4","fullname":"taloreff"},"stay":{"_id":"s103","name":"Ocean View Villa","price":120}} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:37:11 - INFO - Connected to DB 
+8.6.2024, 21:37:11 - INFO - Connected to DB 
+8.6.2024, 21:40:40 - INFO - Connected to DB 
+8.6.2024, 21:40:40 - INFO - Connected to DB 
+8.6.2024, 21:49:24 - INFO - Connected to DB 
+8.6.2024, 21:49:24 - INFO - Connected to DB 
+8.6.2024, 21:55:48 - INFO - Connected to DB 
+8.6.2024, 21:55:48 - INFO - Connected to DB 
+8.6.2024, 21:55:57 - INFO - Connected to DB 
+8.6.2024, 21:55:57 - INFO - Connected to DB 
+8.6.2024, 21:56:24 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:56:24 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:56:25 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:56:25 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:56:25 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:56:25 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:58:34 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:58:34 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:58:34 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:58:34 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:58:34 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:58:34 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:59:43 - INFO - Connected to DB 
+8.6.2024, 21:59:43 - INFO - Connected to DB 
+8.6.2024, 21:59:48 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:59:48 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:59:48 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:59:48 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:59:49 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 21:59:49 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:13 - INFO - Connected to DB 
+8.6.2024, 22:00:13 - INFO - Connected to DB 
+8.6.2024, 22:00:13 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:13 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:13 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:13 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:14 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:14 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:38 - INFO - Connected to DB 
+8.6.2024, 22:00:38 - INFO - Connected to DB 
+8.6.2024, 22:00:42 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:42 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:42 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:42 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:42 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:00:42 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:02:26 - INFO - Connected to DB 
+8.6.2024, 22:02:26 - INFO - Connected to DB 
+8.6.2024, 22:02:29 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:02:29 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:02:29 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:02:29 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:02:29 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:02:29 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:16 - INFO - Connected to DB 
+8.6.2024, 22:06:16 - INFO - Connected to DB 
+8.6.2024, 22:06:18 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:18 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:19 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:19 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:19 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:19 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:53 - INFO - Connected to DB 
+8.6.2024, 22:06:53 - INFO - Connected to DB 
+8.6.2024, 22:06:54 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:54 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:54 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:54 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:54 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:06:54 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:32 - INFO - Connected to DB 
+8.6.2024, 22:07:32 - INFO - Connected to DB 
+8.6.2024, 22:07:35 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:35 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:35 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:35 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:35 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:35 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:47 - INFO - Connected to DB 
+8.6.2024, 22:07:47 - INFO - Connected to DB 
+8.6.2024, 22:07:48 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:48 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:49 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:49 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:49 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:07:49 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:08:25 - INFO - Connected to DB 
+8.6.2024, 22:08:25 - INFO - Connected to DB 
+8.6.2024, 22:08:28 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:08:28 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:08:28 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:08:28 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:08:28 - INFO - Sample Logger Middleware (userId: 6664956f081edc04fdba1fe4)
+8.6.2024, 22:08:28 - DEBUG - Getting Stays: | {"category_tag":"","price_min":"50","price_max":"350","bedrooms":"","beds":"","bathrooms":"","country":"","capacity":"","startDate":"","endDate":""} (userId: 6664956f081edc04fdba1fe4)
