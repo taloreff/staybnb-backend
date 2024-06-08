@@ -1,34 +1,50 @@
-const express = require("express");
-const mongoose = require("mongoose");
-const env = require("dotenv");
-const cors = require("cors");
+import express, { json } from "express";
+import { createServer } from "node:http";
+import { Server } from "socket.io";
+import { config } from "dotenv";
+import path from "path";
+import cors from "cors";
+import cookieParser from "cookie-parser";
+import "dotenv/config.js";
 
-env.config();
 const app = express();
+const server = createServer(app);
+
 const PORT = process.env.PORT || 3030;
-const MongoDB = process.env.MongoDB;
 
-console.log("MongoDB", MongoDB);
-mongoose
-  .connect(MongoDB)
-  .then(() => console.log("MongoDB connected"))
-  .catch((err) => console.error("MongoDB connection error:", err));
+if (process.env.NODE_ENV === 'production') {
+  app.use(express.static(path.resolve('public')))
+} else {
+  const corsOptions = {
+    origin: ['http://127.0.0.1:3000',
+      'http://localhost:3000',
+      'http://127.0.0.1:5173',
+      'http://localhost:5173'
+    ],
+    credentials: true
+  }
+  app.use(cors(corsOptions));
+}
 
-app.use(express.json());
+app.use(cookieParser());
+app.use(json());
 
-const corsOptions = {
-  origin: "*",
-  methods: ["GET", "POST"],
-};
+import { authRoutes } from './api/auth/auth.routes.js'
+import { userRoutes } from './api/user/user.routes.js'
+import { setupSocketAPI } from './services/socket.service.js '
 
-app.use(cors(corsOptions));
+import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
+app.all('*', setupAsyncLocalStorage)
 
-// Routes
+app.use('/api/auth', authRoutes)
+app.use('/api/user', userRoutes)
 
+setupSocketAPI(server)
 
-app.get("/", (req, res) => {
-  res.send("hello!");
+app.get("/**", (req, res) => {
+  res.sendFile(path.resolve('public/index.html'));
 });
-app.listen(PORT, () => {
+
+server.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
