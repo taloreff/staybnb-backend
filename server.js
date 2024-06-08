@@ -34,18 +34,20 @@ app.use(cors(corsOptions));
 app.use(cookieParser());
 app.use(express.json());
 
-import { authRoutes } from './api/auth/auth.routes.js';
-import { userRoutes } from './api/user/user.routes.js';
-import { setupSocketAPI } from './services/socket.service.js';
-import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js';
-import { logger } from "./services/logger.service.js";
+import { authRoutes } from './api/auth/auth.routes.js'
+import { userRoutes } from './api/user/user.routes.js'
+import { stayRoutes } from "./api/stay/stay.routes.js"
+import { setupSocketAPI } from './services/socket.service.js '
 
-// app.all('*', setupAsyncLocalStorage);
+import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
+app.all('*', setupAsyncLocalStorage)
 
-app.use('/api/auth', authRoutes);
-app.use('/api/user', userRoutes);
+app.use('/api/auth', authRoutes)
+app.use('/api/user', userRoutes)
+app.use('/api/stay', stayRoutes)
 
-// setupSocketAPI(server);
+setupSocketAPI(server)
+
 app.get("/**", (req, res) => {
   res.sendFile(path.resolve('public/index.html'));
 });
