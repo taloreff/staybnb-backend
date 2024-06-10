@@ -43,7 +43,7 @@ export function setupSocketAPI(http) {
         })
 
         socket.on('set-user-socket', userId => {
-            logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
+            logger.info(`SOCKET Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
             socket.userId = userId
         })
 
