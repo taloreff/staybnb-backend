@@ -59,18 +59,19 @@ export async function removeStay(req, res) {
 }
 
 export async function updateStay(req, res) {
-    const { _id, title, severity, description, labels } = req.body
-    let stayToSave = { _id, title, severity: +severity, description, labels }
-
-    // const loggedinUser = authService.validateToken(req.cookies.loginToken)
-    // if (!loggedinUser) return res.status(401).send('Not authenticated')
+    const { _id, name, type, imgUrls, price, summary, capacity, beds, bedrooms, bath, amenities, labels, loc, host, likedByUsers, reviews, startDate, endDate } = req.body
+    let stayToSave = { _id, name, type, imgUrls, price: +price, summary, capacity: +capacity, beds: +beds, bedrooms: +bedrooms, bath: +bath, amenities, labels, loc, host, likedByUsers, reviews, startDate, endDate }
+    console.log("staytosave? ", stayToSave)
+    const loggedinUser = authService.validateToken(req.cookies.loginToken)
+    if (!loggedinUser) return res.status(401).send('Not authenticated')
 
     try {
-        const savedStay = await stayService.save(stayToSave, req.loggedinUser)
+        // const savedStay = await stayService.save(stayToSave, req.loggedinUser)
+        const savedStay = await stayService.update(stayToSave)
         res.send(savedStay)
     } catch (err) {
-        logger.error(`Cannot save stay`, err)
-        res.status(400).send(`Cannot save stay`)
+        logger.error(`Cannot update stay`, err)
+        res.status(400).send(`Cannot update stay`)
     }
 }
 

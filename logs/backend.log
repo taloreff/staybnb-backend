@@ -1093,3 +1093,66 @@
 10.6.2024, 13:47:04 - INFO - Connected to DB 
 10.6.2024, 13:47:04 - INFO - Connected to DB 
 10.6.2024, 13:48:44 - DEBUG - {"name":"Casa de Viola","type":"Guesthouse","imgUrls":[{"imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/v1718016482/Screenshot_2023-08-16_111535_uzldcz.png"},{"imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/v1718016485/Screenshot_2023-08-16_115744_re0rmr.png"}],"price":360,"summary":"Best place in spain","capacity":5,"beds":4,"bedrooms":3,"bath":3,"amenities":["Kitchen","Heating","Pets allowed"],"labels":["Beachfront","Vineyards","Mansions"],"loc":{"country":"Spain","city":"Madrid","address":"Sheinkin 61"},"host":{"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"},"likedByUsers":[],"reviews":[],"startDate":"2024-06-13","endDate":"2024-06-24","_id":"6666da0cd1d2d5ed85d4c190"} (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:01:49 - INFO - Connected to DB 
+10.6.2024, 14:01:49 - INFO - Connected to DB 
+10.6.2024, 14:02:01 - DEBUG - {"_id":"6666dd29fb122493648d2943","severity":null} (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:06:26 - DEBUG - {"name":"casa","type":"Guesthouse","imgUrls":[{"imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/v1718017562/Screenshot_2023-08-16_111535_rf4c9w.png"}],"price":200,"summary":"the best place in spain","capacity":5,"beds":3,"bedrooms":3,"bath":3,"amenities":["Kitchen","Heating","Pets allowed"],"labels":["Beach","Beachfront","Vineyards","Mansions"],"loc":{"country":"Spain","city":"Madrid","address":"Sheinkin 61"},"host":{"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"},"likedByUsers":[],"reviews":[],"startDate":"2024-11-16","endDate":"2024-11-19","_id":"6666de32fb122493648d2944"} (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:13:45 - DEBUG - {"_id":"6666dfe9fb122493648d2945","severity":null} (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:15:12 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:15:14 - DEBUG - {"_id":"6666e042fb122493648d2946","severity":null} (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:16:42 - DEBUG - {"_id":"6666e09afb122493648d2947","severity":null} (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:18:29 - INFO - Connected to DB 
+10.6.2024, 14:18:29 - INFO - Connected to DB 
+10.6.2024, 14:18:42 - INFO - Connected to DB 
+10.6.2024, 14:18:42 - INFO - Connected to DB 
+10.6.2024, 14:18:46 - DEBUG - {"price":null,"capacity":null,"beds":null,"bedrooms":null,"bath":null,"_id":"6666e115fbce2cc99c4b0d80"} (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:19:26 - DEBUG - {"price":null,"capacity":null,"beds":null,"bedrooms":null,"bath":null,"_id":"6666e13efbce2cc99c4b0d81"} (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:24:46 - DEBUG - {"price":null,"capacity":null,"beds":null,"bedrooms":null,"bath":null,"_id":"6666e27efbce2cc99c4b0d82"} (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:27:06 - INFO - Connected to DB 
+10.6.2024, 14:27:06 - INFO - Connected to DB 
+10.6.2024, 14:27:11 - INFO - Connected to DB 
+10.6.2024, 14:27:11 - INFO - Connected to DB 
+10.6.2024, 14:28:18 - INFO - Connected to DB 
+10.6.2024, 14:28:18 - INFO - Connected to DB 
+10.6.2024, 14:30:59 - INFO - Connected to DB 
+10.6.2024, 14:30:59 - INFO - Connected to DB 
+10.6.2024, 14:31:16 - ERROR - Cannot update stay | ReferenceError: stay is not defined (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:31:56 - INFO - Connected to DB 
+10.6.2024, 14:31:56 - INFO - Connected to DB 
+10.6.2024, 14:31:57 - ERROR - Cannot update stay | ReferenceError: stay is not defined (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:32:33 - ERROR - Cannot update stay | ReferenceError: stay is not defined (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:36:36 - ERROR - Cannot update stay | ReferenceError: stay is not defined (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:37:17 - ERROR - Cannot update stay | ReferenceError: stay is not defined (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:38:26 - ERROR - Cannot update stay | ReferenceError: stay is not defined (userId: 6665975962b40552f2941b54)
+10.6.2024, 14:39:37 - INFO - Connected to DB 
+10.6.2024, 14:39:37 - INFO - Connected to DB 
+10.6.2024, 15:14:18 - INFO - Connected to DB 
+10.6.2024, 15:14:19 - INFO - Connected to DB 
+10.6.2024, 15:15:29 - INFO - Connected to DB 
+10.6.2024, 15:15:29 - INFO - Connected to DB 
+10.6.2024, 15:16:52 - INFO - Connected to DB 
+10.6.2024, 15:16:52 - INFO - Connected to DB 
+10.6.2024, 15:17:07 - ERROR - cannot update stay undefined | TypeError: Cannot read properties of null (reading 'value') (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:17:07 - ERROR - Cannot update stay | TypeError: Cannot read properties of null (reading 'value') (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:18:53 - INFO - Connected to DB 
+10.6.2024, 15:18:54 - INFO - Connected to DB 
+10.6.2024, 15:18:55 - ERROR - cannot update stay undefined | TypeError: Cannot read properties of null (reading 'value') (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:18:55 - ERROR - Cannot update stay | TypeError: Cannot read properties of null (reading 'value') (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:21:50 - INFO - Connected to DB 
+10.6.2024, 15:21:50 - INFO - Connected to DB 
+10.6.2024, 15:21:53 - ERROR - cannot update stay undefined | TypeError: Cannot read properties of null (reading 'value') (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:21:53 - ERROR - Cannot update stay | TypeError: Cannot read properties of null (reading 'value') (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:22:55 - ERROR - cannot update stay undefined | TypeError: Cannot read properties of null (reading 'value') (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:22:55 - ERROR - Cannot update stay | TypeError: Cannot read properties of null (reading 'value') (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:23:24 - INFO - Connected to DB 
+10.6.2024, 15:23:24 - INFO - Connected to DB 
+10.6.2024, 15:23:28 - ERROR - Cannot update stay | MongoServerError: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:23:28 - ERROR - cannot update stay 6664a2e09f2b850035594378 | MongoServerError: Plan executor error during findAndModify :: caused by :: Performing an update on the path '_id' would modify the immutable field '_id' (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:24:47 - INFO - Connected to DB 
+10.6.2024, 15:24:47 - INFO - Connected to DB 
+10.6.2024, 15:24:55 - ERROR - Cannot update stay | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:24:55 - ERROR - cannot update stay 6664a2e09f2b850035594378 | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' (userId: 6665975962b40552f2941b54)
+10.6.2024, 15:27:03 - INFO - Connected to DB 
+10.6.2024, 15:27:03 - INFO - Connected to DB 
+10.6.2024, 15:30:52 - INFO - Connected to DB 
+10.6.2024, 15:30:52 - INFO - Connected to DB 
