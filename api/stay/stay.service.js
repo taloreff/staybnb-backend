@@ -12,7 +12,8 @@ export const stayService = {
     query,
     getById,
     remove,
-    save
+    save,
+    update
 }
 
 async function query(filterBy = {}) {
@@ -89,12 +90,14 @@ async function add(stayToSave, loggedinUser) {
 }
 
 async function update(stay) {
+    const stayToUpdate = { ...stay };
+    // Remove the _id field from the object to avoid updating it
+    delete stayToUpdate._id;
+
     try {
-        // Peek only updateable fields
-        const stayToSave = {
-        }
         const collection = await dbService.getCollection(collectionName)
-        await collection.updateOne({ _id: new ObjectId(stay._id) }, { $set: stayToSave })
+        await collection.updateOne({ _id: new ObjectId(stay._id) }, { $set: stayToUpdate })
+        console.log("SAVED STAY TO MONGO ", stay)
         return stay
     } catch (err) {
         logger.error(`cannot update stay ${stay._id}`, err)
@@ -116,9 +119,10 @@ async function removeStayMsg(stayId, msgId) {
 
 async function save(stayToSave) {
     try {
-        logger.debug(stayToSave)
         const collection = await dbService.getCollection('stays')
-        await collection.insertOne(stayToSave)
+        const savedStay = await collection.insertOne(stayToSave)
+        stayToSave._id = savedStay.insertedId
+        logger.debug(stayToSave)
         return stayToSave
     } catch (err) {
         throw err

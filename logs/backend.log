@@ -1032,12 +1032,3 @@
 9.6.2024, 13:22:05 - DEBUG - {"name":"asdasd","type":"Hotel","imgUrls":{"big":"https://res.cloudinary.com/dqti9icif/image/upload/v1717928519/Screenshot_2023-08-14_132915_ispulm.png"},"price":3,"summary":"asdas","capacity":3,"beds":3,"bedrooms":3,"bath":3,"amenities":["Wifi"],"labels":["Vineyards"],"loc":{"country":"asddas","city":"asdasd","address":"dsadsa"},"host":{"_id":"6664956f081edc04fdba1fe4","fullname":"taloreff","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"},"likedByUsers":[],"reviews":[]} (userId: 6664956f081edc04fdba1fe4)
 9.6.2024, 13:51:45 - INFO - Connected to DB 
 9.6.2024, 13:51:45 - INFO - Connected to DB 
-9.6.2024, 18:03:19 - INFO - Connected to DB 
-9.6.2024, 18:03:19 - INFO - Connected to DB 
-9.6.2024, 18:12:42 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
-9.6.2024, 18:12:46 - DEBUG - {"totalPrice":560,"startDate":"2024-07-08","endDate":"2024-07-15","guests":{"adults":2,"kids":0},"status":"pending","hostId":"63bafeb80000000000000102","buyer":{"_id":"6665975962b40552f2941b54","fullname":"1"},"stay":{"_id":"6664a2e09f2b850035594379","name":"Ribeira Charming Duplex","price":80}} (userId: 6665975962b40552f2941b54)
-10.6.2024, 17:16:01 - INFO - Connected to DB 
-10.6.2024, 17:16:01 - INFO - Connected to DB 
-10.6.2024, 17:52:37 - INFO - Connected to DB 
-10.6.2024, 17:52:37 - INFO - Connected to DB 
-10.6.2024, 18:16:34 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
