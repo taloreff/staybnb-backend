@@ -75,8 +75,8 @@ export async function updateStay(req, res) {
 }
 
 export async function addStay(req, res) {
-    const { name, type, imgUrls, price, summary, capacity, beds, bedrooms, bath, amenities, labels, loc, host, likedByUsers, reviews } = req.body
-    let stayToSave = { name, type, imgUrls, price: +price, summary, capacity: +capacity, beds: +beds, bedrooms: +bedrooms, bath: +bath, amenities, labels, loc, host, likedByUsers, reviews }
+    const { name, type, imgUrls, price, summary, capacity, beds, bedrooms, bath, amenities, labels, loc, host, likedByUsers, reviews, startDate, endDate } = req.body
+    let stayToSave = { name, type, imgUrls, price: +price, summary, capacity: +capacity, beds: +beds, bedrooms: +bedrooms, bath: +bath, amenities, labels, loc, host, likedByUsers, reviews, startDate, endDate }
 
     const loggedinUser = authService.validateToken(req.cookies.loginToken)
     if (!loggedinUser) return res.status(401).send('Not authenticated')

@@ -116,9 +116,10 @@ async function removeStayMsg(stayId, msgId) {
 
 async function save(stayToSave) {
     try {
-        logger.debug(stayToSave)
         const collection = await dbService.getCollection('stays')
-        await collection.insertOne(stayToSave)
+        const savedStay = await collection.insertOne(stayToSave)
+        stayToSave._id = savedStay.insertedId
+        logger.debug(stayToSave)
         return stayToSave
     } catch (err) {
         throw err
