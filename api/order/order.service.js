@@ -59,7 +59,7 @@ async function update(order) {
     try {
         // peek only updatable properties
         const orderToSave = {
-            _id: new ObjectId(user._id),
+            _id: new ObjectId(order._id),
             stay: order.stay,
             status: order.status,
         }
@@ -71,6 +71,7 @@ async function update(order) {
         throw err
     }
 }
+
 
 async function add(order) {
     try {
