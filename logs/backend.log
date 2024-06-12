@@ -1032,3 +1032,133 @@
 9.6.2024, 13:22:05 - DEBUG - {"name":"asdasd","type":"Hotel","imgUrls":{"big":"https://res.cloudinary.com/dqti9icif/image/upload/v1717928519/Screenshot_2023-08-14_132915_ispulm.png"},"price":3,"summary":"asdas","capacity":3,"beds":3,"bedrooms":3,"bath":3,"amenities":["Wifi"],"labels":["Vineyards"],"loc":{"country":"asddas","city":"asdasd","address":"dsadsa"},"host":{"_id":"6664956f081edc04fdba1fe4","fullname":"taloreff","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"},"likedByUsers":[],"reviews":[]} (userId: 6664956f081edc04fdba1fe4)
 9.6.2024, 13:51:45 - INFO - Connected to DB 
 9.6.2024, 13:51:45 - INFO - Connected to DB 
+11.6.2024, 11:46:14 - INFO - Connected to DB 
+11.6.2024, 11:46:14 - INFO - Connected to DB 
+11.6.2024, 11:49:46 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+11.6.2024, 11:52:29 - DEBUG - {"password":"$2b$10$FgGuQ/vK1Z6kLoCm8QyXv.SYNj32kBRNkEj6VOV5R7xDyUzTTsmPW","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","email":"2@"} 
+11.6.2024, 11:52:29 - DEBUG - auth.route - new account created: {"password":"$2b$10$FgGuQ/vK1Z6kLoCm8QyXv.SYNj32kBRNkEj6VOV5R7xDyUzTTsmPW","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","email":"2@","_id":"6668104d0eaede2f8f16df02"} 
+11.6.2024, 11:52:30 - INFO - User signup: | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+11.6.2024, 11:52:30 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 11:55:16 - DEBUG - {"name":"test_1","type":"Hotel","imgUrls":[{"imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/v1718096086/GOPR2128_zhdvim.jpg"}],"price":2,"summary":"222222222","capacity":2,"beds":2,"bedrooms":2,"bath":2,"amenities":["Heating","Pets allowed"],"labels":["Top of the world"],"loc":{"country":"israel","city":"rishon lezion","address":"vinik 29"},"host":{"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"},"likedByUsers":[],"reviews":[],"startDate":"2027-01-13","endDate":"2027-01-14","_id":"666810f40eaede2f8f16df03"} (userId: 6665975962b40552f2941b54)
+11.6.2024, 11:58:50 - INFO - Connected to DB 
+11.6.2024, 11:58:50 - INFO - Connected to DB 
+11.6.2024, 12:26:14 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 12:26:20 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-15","endDate":"2024-07-22","guests":{"adults":5,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 12:55:42 - INFO - Connected to DB 
+11.6.2024, 12:55:42 - INFO - Connected to DB 
+11.6.2024, 13:22:52 - INFO - Connected to DB 
+11.6.2024, 13:22:52 - INFO - Connected to DB 
+11.6.2024, 13:23:54 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-08","endDate":"2024-07-15","guests":{"adults":2,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 13:25:42 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-10","endDate":"2024-07-17","guests":{"adults":2,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 17:40:01 - INFO - Connected to DB 
+11.6.2024, 17:40:01 - INFO - Connected to DB 
+11.6.2024, 17:40:42 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 17:40:58 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-15","endDate":"2024-07-22","guests":{"adults":3,"kids":2},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 17:49:59 - ERROR - cannot update user 6664a14e9f2b850035594367 | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+11.6.2024, 17:49:59 - ERROR - Failed to update order | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+11.6.2024, 17:52:01 - ERROR - cannot update user 6668183ce11f8a29a897ad9e | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54) 
+11.6.2024, 17:52:01 - ERROR - Failed to update order | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+11.6.2024, 17:52:56 - DEBUG - {"totalPrice":160,"startDate":"2024-07-10","endDate":"2024-07-11","guests":{"adults":6,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 17:59:51 - DEBUG - {"totalPrice":160,"startDate":"2024-07-02","endDate":"2024-07-03","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:03:17 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-01","endDate":"2024-07-08","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:03:55 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-10","endDate":"2024-07-17","guests":{"adults":1,"kids":1},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:05:40 - DEBUG - {"totalPrice":160,"startDate":"2024-07-08","endDate":"2024-07-09","guests":{"adults":3,"kids":2},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:12:05 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-03","endDate":"2024-07-10","guests":{"adults":4,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:18:38 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-09","endDate":"2024-07-16","guests":{"adults":3,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:19:58 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-02","endDate":"2024-07-09","guests":{"adults":2,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:23:54 - DEBUG - {"totalPrice":3360,"startDate":"2024-07-09","endDate":"2024-07-30","guests":{"adults":3,"kids":3},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:24:30 - DEBUG - {"totalPrice":3360,"startDate":"2024-07-09","endDate":"2024-07-30","guests":{"adults":4,"kids":3},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:24:43 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-03","endDate":"2024-07-10","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:28:17 - DEBUG - {"totalPrice":320,"startDate":"2024-07-02","endDate":"2024-07-04","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:30:00 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-01","endDate":"2024-07-08","guests":{"adults":3,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:42:26 - INFO - Connected to DB 
+11.6.2024, 18:42:26 - INFO - Connected to DB 
+11.6.2024, 18:43:00 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-10","endDate":"2024-07-17","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:45:53 - INFO - Connected to DB 
+11.6.2024, 18:45:53 - INFO - Connected to DB 
+11.6.2024, 18:47:08 - INFO - Connected to DB 
+11.6.2024, 18:47:08 - INFO - Connected to DB 
+11.6.2024, 18:47:50 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-02","endDate":"2024-07-09","guests":{"adults":3,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 18:48:50 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+11.6.2024, 18:49:21 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+11.6.2024, 18:50:43 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+11.6.2024, 18:56:40 - INFO - Connected to DB 
+11.6.2024, 18:56:40 - INFO - Connected to DB 
+11.6.2024, 18:56:57 - DEBUG - {"totalPrice":160,"startDate":"2024-07-02","endDate":"2024-07-03","guests":{"adults":3,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 19:01:05 - INFO - Connected to DB 
+11.6.2024, 19:01:05 - INFO - Connected to DB 
+11.6.2024, 19:01:17 - DEBUG - {"totalPrice":160,"startDate":"2024-07-03","endDate":"2024-07-04","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 19:01:30 - INFO - Connected to DB 
+11.6.2024, 19:01:30 - INFO - Connected to DB 
+11.6.2024, 19:02:24 - DEBUG - {"password":"$2b$10$ebO.rk4dAUtebyuYPC2p9.XPmuq9YEfYdxqJwuqeSmyb/HiGOVNu2","fullname":"3","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","email":"3@"} 
+11.6.2024, 19:02:24 - DEBUG - auth.route - new account created: {"password":"$2b$10$ebO.rk4dAUtebyuYPC2p9.XPmuq9YEfYdxqJwuqeSmyb/HiGOVNu2","fullname":"3","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png","email":"3@","_id":"66687510c91d220f4f983445"} 
+11.6.2024, 19:02:25 - INFO - User signup: | {"_id":"66687510c91d220f4f983445","fullname":"3","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+11.6.2024, 19:02:25 - INFO - User login:  | {"_id":"66687510c91d220f4f983445","fullname":"3","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 66687510c91d220f4f983445)
+11.6.2024, 19:18:50 - DEBUG - {"totalPrice":160,"startDate":"2024-07-10","endDate":"2024-07-11","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 19:22:08 - INFO - Connected to DB 
+11.6.2024, 19:22:08 - INFO - Connected to DB 
+11.6.2024, 19:30:18 - INFO - Connected to DB 
+11.6.2024, 19:30:18 - INFO - Connected to DB 
+11.6.2024, 19:30:42 - INFO - Connected to DB 
+11.6.2024, 19:30:42 - INFO - Connected to DB 
+11.6.2024, 19:30:58 - DEBUG - {"totalPrice":320,"startDate":"2024-07-03","endDate":"2024-07-05","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+11.6.2024, 19:37:12 - INFO - Connected to DB 
+11.6.2024, 19:37:12 - INFO - Connected to DB 
+12.6.2024, 14:41:17 - INFO - Connected to DB 
+12.6.2024, 14:41:18 - INFO - Connected to DB 
+12.6.2024, 14:42:44 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+12.6.2024, 14:43:09 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+12.6.2024, 14:53:38 - INFO - Connected to DB 
+12.6.2024, 14:53:38 - INFO - Connected to DB 
+12.6.2024, 14:57:32 - INFO - Connected to DB 
+12.6.2024, 14:57:32 - INFO - Connected to DB 
+12.6.2024, 15:00:43 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-10","endDate":"2024-07-17","guests":{"adults":3,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 15:03:28 - DEBUG - {"totalPrice":160,"startDate":"2024-07-02","endDate":"2024-07-03","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 15:04:52 - DEBUG - {"totalPrice":320,"startDate":"2024-07-02","endDate":"2024-07-04","guests":{"adults":2,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 15:07:48 - DEBUG - {"totalPrice":160,"startDate":"2024-07-02","endDate":"2024-07-03","guests":{"adults":2,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 15:11:47 - INFO - Connected to DB 
+12.6.2024, 15:11:47 - INFO - Connected to DB 
+12.6.2024, 15:12:13 - DEBUG - {"totalPrice":1120,"startDate":"2024-07-10","endDate":"2024-07-17","guests":{"adults":3,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 15:16:01 - INFO - Connected to DB 
+12.6.2024, 15:16:01 - INFO - Connected to DB 
+12.6.2024, 15:16:21 - DEBUG - {"totalPrice":160,"startDate":"2024-07-02","endDate":"2024-07-03","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 15:19:21 - INFO - Connected to DB 
+12.6.2024, 15:19:21 - INFO - Connected to DB 
+12.6.2024, 15:30:53 - INFO - Connected to DB 
+12.6.2024, 15:30:55 - INFO - Connected to DB 
+12.6.2024, 15:31:22 - DEBUG - {"totalPrice":1280,"startDate":"2024-07-08","endDate":"2024-07-16","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 15:32:08 - INFO - Connected to DB 
+12.6.2024, 15:32:09 - INFO - Connected to DB 
+12.6.2024, 15:38:08 - INFO - New connected socket [id: gfveop3QEdKrtNMyAAAC] 
+12.6.2024, 15:38:08 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: gfveop3QEdKrtNMyAAAC] 
+12.6.2024, 15:38:08 - INFO - New connected socket [id: NygehY0qoRyhulT7AAAE] 
+12.6.2024, 15:38:08 - INFO - New connected socket [id: KkdLe1qeU1opSSLEAAAF] 
+12.6.2024, 15:38:08 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: NygehY0qoRyhulT7AAAE] 
+12.6.2024, 15:38:08 - INFO - SOCKET Setting socket.userId = 66687510c91d220f4f983445 for socket [id: KkdLe1qeU1opSSLEAAAF] 
+12.6.2024, 15:38:13 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 15:38:15 - INFO - New connected socket [id: zdYBZEQUwH6Pnx6LAAAH] 
+12.6.2024, 15:38:16 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: zdYBZEQUwH6Pnx6LAAAH] 
+12.6.2024, 15:38:22 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 15:38:24 - INFO - New connected socket [id: AaILWqMavhSHyucoAAAJ] 
+12.6.2024, 15:38:24 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: AaILWqMavhSHyucoAAAJ] 
+12.6.2024, 15:38:34 - DEBUG - {"totalPrice":320,"startDate":"2024-07-03","endDate":"2024-07-05","guests":{"adults":2,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 15:38:34 - INFO - Notify new order to host [id: 6665975962b40552f2941b54] 
+12.6.2024, 15:38:34 - INFO - Emiting event: new-order to user: 6665975962b40552f2941b54 socket [id: AaILWqMavhSHyucoAAAJ] 
+12.6.2024, 15:38:54 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 15:38:56 - INFO - New connected socket [id: dVESJQuCi2SwBHokAAAL] 
+12.6.2024, 15:38:56 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: dVESJQuCi2SwBHokAAAL] 
+12.6.2024, 15:39:23 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 15:39:24 - INFO - New connected socket [id: v8heYrWxBwVnm86RAAAN] 
+12.6.2024, 15:39:25 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: v8heYrWxBwVnm86RAAAN] 
+12.6.2024, 15:39:27 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 15:39:29 - INFO - New connected socket [id: MWKkZLV_voQZ0o_1AAAP] 
+12.6.2024, 15:39:29 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: MWKkZLV_voQZ0o_1AAAP] 
+12.6.2024, 15:39:49 - DEBUG - {"totalPrice":1280,"startDate":"2024-07-22","endDate":"2024-07-30","guests":{"adults":5,"kids":5},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 15:39:49 - INFO - Notify new order to host [id: 6665975962b40552f2941b54] 
+12.6.2024, 15:39:49 - INFO - Emiting event: new-order to user: 6665975962b40552f2941b54 socket [id: MWKkZLV_voQZ0o_1AAAP] 
+12.6.2024, 15:40:08 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 15:40:08 - INFO - New connected socket [id: XQyTdako8tpiq0foAAAR] 
+12.6.2024, 15:40:08 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: XQyTdako8tpiq0foAAAR] 
+12.6.2024, 15:41:03 - DEBUG - {"totalPrice":2240,"startDate":"2024-07-02","endDate":"2024-07-16","guests":{"adults":4,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 15:41:03 - INFO - Notify new order to host [id: 6665975962b40552f2941b54] 
+12.6.2024, 15:41:03 - INFO - Emiting event: new-order to user: 6665975962b40552f2941b54 socket [id: MWKkZLV_voQZ0o_1AAAP] 
