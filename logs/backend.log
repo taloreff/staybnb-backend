@@ -1162,3 +1162,68 @@
 12.6.2024, 15:41:03 - DEBUG - {"totalPrice":2240,"startDate":"2024-07-02","endDate":"2024-07-16","guests":{"adults":4,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"_id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
 12.6.2024, 15:41:03 - INFO - Notify new order to host [id: 6665975962b40552f2941b54] 
 12.6.2024, 15:41:03 - INFO - Emiting event: new-order to user: 6665975962b40552f2941b54 socket [id: MWKkZLV_voQZ0o_1AAAP] 
+12.6.2024, 15:44:59 - ERROR - cannot update user 6668183ce11f8a29a897ad9e | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 15:44:59 - ERROR - Failed to update order | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 15:46:31 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 15:46:32 - INFO - New connected socket [id: AQ0GHBfihU_bRj1wAAAT] 
+12.6.2024, 15:46:33 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: AQ0GHBfihU_bRj1wAAAT] 
+12.6.2024, 15:46:35 - ERROR - cannot update user 6668183ce11f8a29a897ad9e | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 15:46:35 - ERROR - Failed to update order | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:00:38 - ERROR - cannot update user 6668183ce11f8a29a897ad9e | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:00:38 - ERROR - Failed to update order | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:06:58 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 16:06:59 - INFO - New connected socket [id: cf-3AOvoaGxPy21wAAAV] 
+12.6.2024, 16:06:59 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: cf-3AOvoaGxPy21wAAAV] 
+12.6.2024, 16:07:27 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 16:07:28 - INFO - New connected socket [id: HvMjyx4nMAnaf57GAAAX] 
+12.6.2024, 16:07:28 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: HvMjyx4nMAnaf57GAAAX] 
+12.6.2024, 16:08:03 - ERROR - cannot update user 6668183ce11f8a29a897ad9e | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:08:03 - ERROR - Failed to update order | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:15:26 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 16:15:27 - INFO - New connected socket [id: qxVwZTuLiqBCy5GSAAAZ] 
+12.6.2024, 16:15:28 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: qxVwZTuLiqBCy5GSAAAZ] 
+12.6.2024, 16:15:30 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 16:15:32 - INFO - New connected socket [id: BGLwP760JesMIc9OAAAb] 
+12.6.2024, 16:15:32 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: BGLwP760JesMIc9OAAAb] 
+12.6.2024, 16:15:43 - DEBUG - {"totalPrice":320,"startDate":"2024-07-02","endDate":"2024-07-04","guests":{"adults":1,"kids":1},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160}} (userId: 6668104d0eaede2f8f16df02)
+12.6.2024, 16:15:44 - INFO - Notify new order to host [id: 6665975962b40552f2941b54] 
+12.6.2024, 16:15:44 - INFO - Emiting event: new-order to user: 6665975962b40552f2941b54 socket [id: BGLwP760JesMIc9OAAAb] 
+12.6.2024, 16:16:19 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 16:16:20 - INFO - New connected socket [id: 7paIbyZXGG3tqOpKAAAd] 
+12.6.2024, 16:16:21 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 7paIbyZXGG3tqOpKAAAd] 
+12.6.2024, 16:17:11 - ERROR - cannot update user 66699f7f935453fe9377722d | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:17:11 - ERROR - Failed to update order | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:21:31 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 16:22:36 - INFO - Connected to DB 
+12.6.2024, 16:22:37 - INFO - Connected to DB 
+12.6.2024, 16:22:37 - INFO - New connected socket [id: Bo1TGbr4iD69hRwMAAAB] 
+12.6.2024, 16:22:39 - INFO - New connected socket [id: 9nYK6f0fiOuh-FDiAAAD] 
+12.6.2024, 16:23:02 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 16:23:04 - INFO - New connected socket [id: 9WZWUBpIW5mILD-nAAAF] 
+12.6.2024, 16:23:07 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 16:23:08 - INFO - New connected socket [id: 8x-mCABiBSN4EQQ3AAAH] 
+12.6.2024, 16:23:08 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 8x-mCABiBSN4EQQ3AAAH] 
+12.6.2024, 16:23:14 - INFO - New connected socket [id: vySg7nRVNOnAk1fFAAAJ] 
+12.6.2024, 16:23:14 - INFO - SOCKET Setting socket.userId = 66687510c91d220f4f983445 for socket [id: vySg7nRVNOnAk1fFAAAJ] 
+12.6.2024, 16:23:38 - ERROR - cannot update user 6669975f935453fe9377722c | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:23:38 - ERROR - Failed to update order | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:24:19 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 16:24:24 - INFO - New connected socket [id: 3qPX_z0CKlAFKXDpAAAL] 
+12.6.2024, 16:24:26 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: 3qPX_z0CKlAFKXDpAAAL] 
+12.6.2024, 16:25:23 - INFO - Connected to DB 
+12.6.2024, 16:25:23 - INFO - Connected to DB 
+12.6.2024, 16:25:25 - INFO - New connected socket [id: gd6G_tgVLlH0cn5HAAAB] 
+12.6.2024, 16:25:26 - INFO - New connected socket [id: KX8COwoN2-bCBPAqAAAD] 
+12.6.2024, 16:25:26 - INFO - New connected socket [id: XmgRc_NF0om12Pw-AAAF] 
+12.6.2024, 16:25:36 - INFO - Socket disconnected [id: undefined] 
+12.6.2024, 16:25:37 - INFO - New connected socket [id: jr0I_2qf-OiGLN23AAAH] 
+12.6.2024, 16:25:37 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jr0I_2qf-OiGLN23AAAH] 
+12.6.2024, 16:26:01 - INFO - Connected to DB 
+12.6.2024, 16:26:01 - INFO - Connected to DB 
+12.6.2024, 16:26:01 - INFO - New connected socket [id: SLsY9WYaq8dJHO8oAAAB] 
+12.6.2024, 16:26:01 - INFO - New connected socket [id: fnlHaHL-9RvLWSdxAAAD] 
+12.6.2024, 16:26:02 - INFO - New connected socket [id: KD2DPdBgrnKFeS-eAAAF] 
+12.6.2024, 16:26:33 - ERROR - cannot update user 6668183ce11f8a29a897ad9e | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:26:33 - ERROR - Failed to update order | ReferenceError: user is not defined (userId: 6665975962b40552f2941b54)
+12.6.2024, 16:32:36 - INFO - Connected to DB 
+12.6.2024, 16:32:36 - INFO - Connected to DB 

@@ -18,6 +18,11 @@ export function setupSocketAPI(http) {
             emitToUser({ type: 'new-order', data: buyer_id, userId: hostId })
         })
 
+        socket.on('notify-order-status', ({ hostId, buyer_id }) => {
+            logger.info(`Notify new order status to buyer [id: ${buyer_id}]`)
+            emitToUser({ type: 'order-status', data: hostId, userId: buyer_id })
+        })
+
         socket.on('set-user-socket', userId => {
             logger.info(`SOCKET Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
             socket.userId = userId
