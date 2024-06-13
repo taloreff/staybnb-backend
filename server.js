@@ -1,6 +1,5 @@
 import express from "express";
 import { createServer } from "node:http";
-import { Server } from "socket.io";
 import { config } from "dotenv";
 import path from "path";
 import cors from "cors";
@@ -14,22 +13,23 @@ const server = createServer(app);
 
 const PORT = process.env.PORT || 5000;
 
-// if (process.env.NODE_ENV === 'production') {
-//   console.log('production');
-//   app.use(express.static(path.resolve('public')));
-// } else {
-console.log('development');
-const corsOptions = {
-  origin: [
-    'http://127.0.0.1:5000',
-    'http://localhost:5000',
-    'http://127.0.0.1:5173',
-    'http://localhost:5173',
-  ],
-  credentials: true
+if (process.env.NODE_ENV === 'production') {
+  console.log('production');
+  app.use(express.static(path.resolve('public')));
+} else {
+  console.log('development');
+  const corsOptions = {
+    origin: [
+      'http://127.0.0.1:5000',
+      'http://localhost:5000',
+      'http://127.0.0.1:5173',
+      'http://localhost:5173',
+      'https://staybnb-backend.onrender.com',
+    ],
+    credentials: true
+  }
+  app.use(cors(corsOptions));
 }
-app.use(cors(corsOptions));
-// }
 
 app.use(cookieParser());
 app.use(express.json());
