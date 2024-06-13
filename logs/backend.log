@@ -1374,3 +1374,43 @@
 12.6.2024, 17:21:49 - INFO - Socket disconnected [id: undefined] 
 12.6.2024, 17:21:49 - INFO - New connected socket [id: VCiqScs0CkSfeSocAAAT] 
 12.6.2024, 17:21:50 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: VCiqScs0CkSfeSocAAAT] 
+13.6.2024, 13:26:36 - INFO - Connected to DB 
+13.6.2024, 13:26:36 - INFO - Connected to DB 
+13.6.2024, 13:26:38 - INFO - New connected socket [id: sharRHiUSIs6YcbvAAAB] 
+13.6.2024, 13:29:16 - INFO - New connected socket [id: 3ydt4T0GZAMwNzNZAAAD] 
+13.6.2024, 13:36:28 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 13:36:29 - INFO - New connected socket [id: SmPfDBJvH9CyADtzAAAF] 
+13.6.2024, 13:38:59 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 13:38:59 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: SmPfDBJvH9CyADtzAAAF] 
+13.6.2024, 13:52:26 - INFO - Removing socket.userId for socket [id: SmPfDBJvH9CyADtzAAAF] 
+13.6.2024, 13:52:37 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 13:52:37 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: SmPfDBJvH9CyADtzAAAF] 
+13.6.2024, 13:52:51 - INFO - Removing socket.userId for socket [id: SmPfDBJvH9CyADtzAAAF] 
+13.6.2024, 13:53:18 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 13:53:18 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: SmPfDBJvH9CyADtzAAAF] 
+13.6.2024, 13:53:31 - INFO - Removing socket.userId for socket [id: SmPfDBJvH9CyADtzAAAF] 
+13.6.2024, 13:53:40 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 13:53:40 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: SmPfDBJvH9CyADtzAAAF] 
+13.6.2024, 13:59:49 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 13:59:49 - INFO - New connected socket [id: mYuGEMhLWVvDPQ8eAAAH] 
+13.6.2024, 13:59:50 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: mYuGEMhLWVvDPQ8eAAAH] 
+13.6.2024, 14:00:00 - INFO - Removing socket.userId for socket [id: mYuGEMhLWVvDPQ8eAAAH] 
+13.6.2024, 14:00:07 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 14:00:07 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: mYuGEMhLWVvDPQ8eAAAH] 
+13.6.2024, 14:01:19 - INFO - Removing socket.userId for socket [id: mYuGEMhLWVvDPQ8eAAAH] 
+13.6.2024, 14:01:26 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 14:01:26 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: mYuGEMhLWVvDPQ8eAAAH] 
+13.6.2024, 14:03:07 - INFO - Removing socket.userId for socket [id: mYuGEMhLWVvDPQ8eAAAH] 
+13.6.2024, 14:03:39 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 14:03:39 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: mYuGEMhLWVvDPQ8eAAAH] 
+13.6.2024, 14:03:45 - INFO - Removing socket.userId for socket [id: mYuGEMhLWVvDPQ8eAAAH] 
+13.6.2024, 14:07:25 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 14:07:25 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: mYuGEMhLWVvDPQ8eAAAH] 
+13.6.2024, 14:19:30 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 14:19:30 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 14:19:34 - INFO - New connected socket [id: xLGzQijuRAeVVcxlAAAJ] 
+13.6.2024, 14:19:34 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: xLGzQijuRAeVVcxlAAAJ] 
+13.6.2024, 14:19:35 - INFO - New connected socket [id: BFuW8w4bxLlb4hbHAAAL] 
+13.6.2024, 14:19:49 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 14:19:49 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 14:19:53 - INFO - New connected socket [id: -vbUrgSILr7_JDknAAAN] 
