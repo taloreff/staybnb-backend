@@ -32,6 +32,10 @@ export function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
+
+        socket.on('notify-user-watching-stay', ({ userId, stayId }) => {
+            logger.info(`User: ${userId} is watching stay: ${stayId}`)
+        })
     })
 }
 
