@@ -33,8 +33,9 @@ export function setupSocketAPI(http) {
             delete socket.userId
         })
 
-        socket.on('notify-user-watching-stay', ({ userId, stayId }) => {
-            logger.info(`User: ${userId} is watching stay: ${stayId}`)
+        socket.on('notify-user-watching-stay', ({ userName, stayName, hostId }) => {
+            logger.info(`User: ${userName} is watching stay: ${stayName}`)
+            emitToUser({ type: 'user-watching', data: {userName, stayName}, userId: hostId })
         })
     })
 }
