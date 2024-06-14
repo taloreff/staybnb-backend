@@ -1627,3 +1627,485 @@
 13.6.2024, 17:24:46 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: 2yi6EKdKq631hqI9AAAL] 
 13.6.2024, 17:24:46 - INFO - User: 2 is watching stay: Azamra Amirim 
 13.6.2024, 17:24:46 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: hYWEh6niYtRnj73XAAAF] 
+13.6.2024, 17:31:13 - INFO - Connected to DB 
+13.6.2024, 17:31:13 - INFO - Connected to DB 
+13.6.2024, 17:31:18 - INFO - New connected socket [id: 7HzMeNiPlIs5_WCmAAAB] 
+13.6.2024, 17:31:55 - INFO - Connected to DB 
+13.6.2024, 17:31:55 - INFO - Connected to DB 
+13.6.2024, 17:31:55 - INFO - New connected socket [id: xvVs4Q0-wEXK6WAWAAAB] 
+13.6.2024, 17:32:01 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 17:32:02 - INFO - New connected socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:32:17 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6665975962b40552f2941b54)
+13.6.2024, 17:32:17 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:37:42 - INFO - Removing socket.userId for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:37:46 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:37:46 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:38:05 - INFO - Removing socket.userId for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:38:09 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:38:09 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:38:49 - INFO - Removing socket.userId for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:38:52 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:38:52 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:39:30 - INFO - Removing socket.userId for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:39:34 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:39:34 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:39:37 - INFO - Removing socket.userId for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:39:41 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:39:41 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:39:47 - INFO - Removing socket.userId for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:39:51 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:39:51 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:40:37 - INFO - Removing socket.userId for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:40:41 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:40:41 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: HVJHe-sHly7PDL5oAAAD] 
+13.6.2024, 17:41:01 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 17:41:01 - INFO - New connected socket [id: Hlrix_RgjTItd9YhAAAF] 
+13.6.2024, 17:41:02 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: Hlrix_RgjTItd9YhAAAF] 
+13.6.2024, 17:41:04 - INFO - Removing socket.userId for socket [id: Hlrix_RgjTItd9YhAAAF] 
+13.6.2024, 17:41:08 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:41:08 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: Hlrix_RgjTItd9YhAAAF] 
+13.6.2024, 17:41:20 - INFO - Removing socket.userId for socket [id: Hlrix_RgjTItd9YhAAAF] 
+13.6.2024, 17:41:24 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:41:24 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: Hlrix_RgjTItd9YhAAAF] 
+13.6.2024, 17:41:33 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 17:41:34 - INFO - New connected socket [id: ixaH8zAzzAjJTFCQAAAH] 
+13.6.2024, 17:41:34 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: ixaH8zAzzAjJTFCQAAAH] 
+13.6.2024, 17:41:36 - INFO - Removing socket.userId for socket [id: ixaH8zAzzAjJTFCQAAAH] 
+13.6.2024, 17:41:39 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:41:39 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: ixaH8zAzzAjJTFCQAAAH] 
+13.6.2024, 17:42:09 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 17:42:10 - INFO - New connected socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:42:10 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:42:12 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:42:16 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:42:16 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:42:44 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:42:47 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:42:47 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:43:03 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:43:06 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:43:06 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:43:35 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:43:40 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:43:40 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:43:46 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:44:51 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:44:51 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:45:10 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:45:14 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:45:14 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:45:22 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:45:34 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:45:34 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:46:27 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:46:32 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:46:32 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:46:48 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:46:52 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:46:52 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:47:03 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:47:06 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:47:06 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:47:28 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:47:32 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:47:32 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:47:43 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:47:48 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:47:48 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:48:15 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:48:25 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:48:25 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:48:32 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:48:36 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:48:36 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:52:44 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:52:47 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:52:47 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:53:45 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:53:48 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:53:48 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:54:15 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:54:18 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:54:18 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:58:12 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:58:16 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:58:16 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:59:27 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:59:30 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:59:31 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:59:50 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 17:59:54 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 17:59:54 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:00:14 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:00:17 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 18:00:17 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:00:47 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:00:50 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 18:00:50 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:01:23 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:01:26 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 18:01:26 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:01:37 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:01:41 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 18:01:41 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:01:57 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:02:00 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 18:02:00 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:02:08 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:02:12 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 18:02:12 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:02:24 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:02:27 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 18:02:27 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:02:36 - INFO - Removing socket.userId for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:02:39 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+13.6.2024, 18:02:39 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: pdvagK_RL29b95U-AAAJ] 
+13.6.2024, 18:03:13 - INFO - New connected socket [id: WN0gfQ0OND7WytizAAAL] 
+13.6.2024, 18:05:16 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 18:05:17 - INFO - New connected socket [id: T7J14V8edKpgNO-rAAAN] 
+13.6.2024, 18:05:17 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: T7J14V8edKpgNO-rAAAN] 
+13.6.2024, 18:07:01 - INFO - Socket disconnected [id: undefined] 
+13.6.2024, 18:07:04 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 13:22:42 - INFO - Connected to DB 
+14.6.2024, 13:22:42 - INFO - Connected to DB 
+14.6.2024, 13:23:02 - INFO - New connected socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:23:14 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:23:14 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:23:54 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:24:01 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:24:01 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:31:34 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:31:39 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:31:39 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:31:55 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:32:00 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:32:00 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:44:21 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:44:25 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:44:25 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:44:41 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:44:45 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:44:45 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:45:00 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:45:03 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:45:03 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:45:16 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:45:20 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:45:20 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:45:54 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:45:58 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:45:58 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:49:17 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:49:22 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:49:22 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:49:46 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:50:06 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:50:06 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:51:49 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:52:01 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:52:01 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:52:08 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:52:13 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:52:13 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:52:22 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:52:27 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:52:27 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:52:41 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:52:44 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:52:44 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:53:00 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:53:05 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:53:05 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:53:16 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:53:21 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:53:21 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:53:35 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:53:39 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:53:39 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:53:59 - INFO - Removing socket.userId for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 13:54:04 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 13:54:04 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jqm_yaPeab_C29cuAAAB] 
+14.6.2024, 14:09:57 - INFO - New connected socket [id: 69USCYlTpi-mfYZgAAAD] 
+14.6.2024, 14:09:58 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 69USCYlTpi-mfYZgAAAD] 
+14.6.2024, 14:09:59 - INFO - User: 1 is watching stay: Ocean View Villa 
+14.6.2024, 14:09:59 - INFO - No active socket for user: 63bafeb80000000000000103 
+14.6.2024, 15:00:00 - INFO - User: 1 is watching stay: Ocean View Villa 
+14.6.2024, 15:00:00 - INFO - No active socket for user: 63bafeb80000000000000103 
+14.6.2024, 15:03:17 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 15:03:18 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 15:03:25 - INFO - New connected socket [id: -L9r9PLhcEUCgm9CAAAF] 
+14.6.2024, 15:05:13 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6665975962b40552f2941b54)
+14.6.2024, 15:05:13 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: -L9r9PLhcEUCgm9CAAAF] 
+14.6.2024, 15:05:16 - INFO - User: 1 is watching stay: Unique Villa Olipa Island 
+14.6.2024, 15:05:16 - INFO - No active socket for user: 63bafeb80000000000000112 
+14.6.2024, 15:05:28 - DEBUG - {"totalPrice":640,"startDate":"2024-07-17","endDate":"2024-07-25","guests":{},"status":"pending","hostId":"63bafeb80000000000000112","buyer":{"id":"6665975962b40552f2941b54","fullname":"1"},"stay":{"_id":"6664a2e09f2b850035594378","name":"Unique Villa Olipa Island","price":80}} (userId: 6665975962b40552f2941b54)
+14.6.2024, 15:05:29 - INFO - Notify new order to host [id: 63bafeb80000000000000112] 
+14.6.2024, 15:05:29 - INFO - No active socket for user: 63bafeb80000000000000112 
+14.6.2024, 15:05:47 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 15:05:49 - INFO - New connected socket [id: vLpFXlLE16WynKlQAAAH] 
+14.6.2024, 15:05:51 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: vLpFXlLE16WynKlQAAAH] 
+14.6.2024, 15:06:13 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 15:06:15 - INFO - New connected socket [id: 3eHz1SKQ-PO0lyVcAAAJ] 
+14.6.2024, 15:06:38 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6665975962b40552f2941b54)
+14.6.2024, 15:06:38 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 3eHz1SKQ-PO0lyVcAAAJ] 
+14.6.2024, 15:06:48 - INFO - User: 1 is watching stay: Unique Villa Olipa Island 
+14.6.2024, 15:06:48 - INFO - No active socket for user: 63bafeb80000000000000112 
+14.6.2024, 15:07:24 - DEBUG - {"totalPrice":640,"startDate":"2024-06-19","endDate":"2024-06-27","guests":{},"status":"pending","hostId":"63bafeb80000000000000112","buyer":{"id":"6665975962b40552f2941b54","fullname":"1"},"stay":{"_id":"6664a2e09f2b850035594378","name":"Unique Villa Olipa Island","price":80}} (userId: 6665975962b40552f2941b54)
+14.6.2024, 15:07:24 - INFO - Notify new order to host [id: 63bafeb80000000000000112] 
+14.6.2024, 15:07:24 - INFO - No active socket for user: 63bafeb80000000000000112 
+14.6.2024, 15:08:04 - INFO - User: 1 is watching stay: Unique Villa Olipa Island 
+14.6.2024, 15:08:04 - INFO - No active socket for user: 63bafeb80000000000000112 
+14.6.2024, 15:08:13 - INFO - User: 1 is watching stay: Unique Villa Olipa Island 
+14.6.2024, 15:08:13 - INFO - No active socket for user: 63bafeb80000000000000112 
+14.6.2024, 15:08:27 - INFO - User: 1 is watching stay: Unique Villa Olipa Island 
+14.6.2024, 15:08:27 - INFO - No active socket for user: 63bafeb80000000000000112 
+14.6.2024, 15:10:30 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 15:10:30 - INFO - New connected socket [id: RFvvvng0pysNee7fAAAL] 
+14.6.2024, 15:11:38 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6665975962b40552f2941b54)
+14.6.2024, 15:11:38 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: RFvvvng0pysNee7fAAAL] 
+14.6.2024, 15:11:40 - DEBUG - {"totalPrice":700,"startDate":"2024-07-03","endDate":"2024-07-10","guests":{"adults":2,"kids":0},"status":"pending","hostId":"63bafeb80000000000000104","buyer":{"id":"6665975962b40552f2941b54","fullname":"1"},"stay":{"_id":"6664a2e09f2b85003559437b","name":"Ligaria Mare Villa Earth with private seaview pool","price":100}} (userId: 6665975962b40552f2941b54)
+14.6.2024, 15:11:40 - INFO - Notify new order to host [id: 63bafeb80000000000000104] 
+14.6.2024, 15:11:40 - INFO - No active socket for user: 63bafeb80000000000000104 
+14.6.2024, 15:14:06 - INFO - User: 1 is watching stay: Stunning hut in the nature(DayaGeusthouse) 
+14.6.2024, 15:14:06 - INFO - No active socket for user: 63bafeb80000000000000106 
+14.6.2024, 15:14:20 - DEBUG - {"totalPrice":630,"startDate":"2024-07-02","endDate":"2024-07-09","guests":{"adults":2,"kids":0},"status":"pending","hostId":"63bafeb80000000000000106","buyer":{"id":"6665975962b40552f2941b54","fullname":"1"},"stay":{"_id":"6664a2e09f2b850035594380","name":"Stunning hut in the nature(DayaGeusthouse)","price":90}} (userId: 6665975962b40552f2941b54)
+14.6.2024, 15:14:20 - INFO - Notify new order to host [id: 63bafeb80000000000000106] 
+14.6.2024, 15:14:20 - INFO - No active socket for user: 63bafeb80000000000000106 
+14.6.2024, 15:15:54 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 15:15:57 - INFO - New connected socket [id: qoucBhXpO6D1y2E9AAAN] 
+14.6.2024, 15:15:57 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: qoucBhXpO6D1y2E9AAAN] 
+14.6.2024, 15:16:22 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 15:16:25 - INFO - New connected socket [id: VxvegmZTjG5Q3B0JAAAP] 
+14.6.2024, 15:16:25 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: VxvegmZTjG5Q3B0JAAAP] 
+14.6.2024, 15:19:41 - DEBUG - {"name":"Casa de Viola","type":"House","imgUrls":[{"imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/v1718367498/Screenshot_2023-08-16_115744_nrf11w.png"},{"imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/v1718367501/Screenshot_2023-08-16_111535_nvo9jo.png"},{"imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/v1718367507/Screenshot_2023-08-16_125908_j95vht.png"},{"imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/v1718367515/Screenshot_2023-08-17_114553_lxudc7.png"},{"imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/v1718367526/Screenshot_2023-08-24_123429_k4z6jr.png"}],"price":280,"summary":"The best place in spain!!!","capacity":5,"beds":5,"bedrooms":2,"bath":2,"amenities":["Wifi","Kitchen","Washer"],"labels":["Beach","Beachfront","Amazing pools","Tropical","Bed & breakfasts","Luxe"],"loc":{"country":"Spain","city":"Barcelona","address":"Rey del puerto"},"host":{"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"},"likedByUsers":[],"reviews":[],"startDate":"2024-06-20","endDate":"2024-06-28","_id":"666c355d5f42da531fa427f5"} (userId: 6665975962b40552f2941b54)
+14.6.2024, 15:31:13 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 15:31:15 - INFO - New connected socket [id: xXeXPJAvKKFowSOtAAAR] 
+14.6.2024, 15:31:16 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: xXeXPJAvKKFowSOtAAAR] 
+14.6.2024, 16:38:03 - INFO - Connected to DB 
+14.6.2024, 16:38:03 - INFO - Connected to DB 
+14.6.2024, 16:38:03 - INFO - New connected socket [id: QzQd9r7Yx7cuvNyTAAAB] 
+14.6.2024, 16:38:03 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: QzQd9r7Yx7cuvNyTAAAB] 
+14.6.2024, 16:38:05 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 16:38:06 - INFO - New connected socket [id: lVNZubni2QdRhtpSAAAD] 
+14.6.2024, 16:38:07 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: lVNZubni2QdRhtpSAAAD] 
+14.6.2024, 16:38:13 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 16:38:13 - INFO - New connected socket [id: -yxSLOpubPSS4ENcAAAF] 
+14.6.2024, 16:43:58 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 16:43:59 - INFO - New connected socket [id: WsrvbZ4IRQ934nOoAAAH] 
+14.6.2024, 16:51:26 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 16:51:27 - INFO - New connected socket [id: Ur1eQv8zflfyn2EiAAAJ] 
+14.6.2024, 17:09:21 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:09:22 - INFO - New connected socket [id: TwDkI5zSEmUMvZuAAAAL] 
+14.6.2024, 17:16:07 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:16:08 - INFO - New connected socket [id: kLvMQdCT5j8vDRBtAAAN] 
+14.6.2024, 17:21:14 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:21:15 - INFO - New connected socket [id: NFeAkY3eSwCWdbSXAAAP] 
+14.6.2024, 17:44:11 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:44:11 - INFO - New connected socket [id: clGd9aJUj8PnM7SmAAAR] 
+14.6.2024, 17:48:16 - INFO - New connected socket [id: oJezX6_Qg6A0IMNQAAAT] 
+14.6.2024, 17:48:21 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:48:24 - INFO - New connected socket [id: PDDDtAsO7JtbeBgGAAAV] 
+14.6.2024, 17:49:06 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6665975962b40552f2941b54)
+14.6.2024, 17:49:06 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: PDDDtAsO7JtbeBgGAAAV] 
+14.6.2024, 17:49:15 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:49:16 - INFO - New connected socket [id: M6UNJjbldE-eOFoyAAAX] 
+14.6.2024, 17:50:31 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 17:50:31 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: M6UNJjbldE-eOFoyAAAX] 
+14.6.2024, 17:51:29 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:51:31 - INFO - New connected socket [id: aKleTJgsCc3pH-tYAAAZ] 
+14.6.2024, 17:51:36 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 17:51:36 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: aKleTJgsCc3pH-tYAAAZ] 
+14.6.2024, 17:51:47 - INFO - Removing socket.userId for socket [id: aKleTJgsCc3pH-tYAAAZ] 
+14.6.2024, 17:51:48 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:51:51 - INFO - New connected socket [id: XEwjBe_RbaUJFkD9AAAb] 
+14.6.2024, 17:51:55 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 17:51:55 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: XEwjBe_RbaUJFkD9AAAb] 
+14.6.2024, 17:52:17 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:52:18 - INFO - New connected socket [id: nabgi5lQ1rIR0OYiAAAd] 
+14.6.2024, 17:54:54 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 17:54:54 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: nabgi5lQ1rIR0OYiAAAd] 
+14.6.2024, 17:55:26 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:55:27 - INFO - New connected socket [id: UhW7DrflFZnJWXFCAAAf] 
+14.6.2024, 17:58:56 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:58:58 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 17:59:00 - INFO - New connected socket [id: KRC5t_F6zn9FQaORAAAh] 
+14.6.2024, 17:59:02 - INFO - New connected socket [id: vUp3nIvQca4gt3K3AAAj] 
+14.6.2024, 17:59:03 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: vUp3nIvQca4gt3K3AAAj] 
+14.6.2024, 18:03:54 - INFO - User: 1 is watching stay: Ligaria Mare Villa Earth with private seaview pool 
+14.6.2024, 18:03:54 - INFO - No active socket for user: 63bafeb80000000000000104 
+14.6.2024, 18:04:11 - INFO - User: 1 is watching stay: Ligaria Mare Villa Earth with private seaview pool 
+14.6.2024, 18:04:11 - INFO - No active socket for user: 63bafeb80000000000000104 
+14.6.2024, 18:04:42 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:04:43 - INFO - New connected socket [id: cJPNIlSfjQi28gkeAAAl] 
+14.6.2024, 18:04:43 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: cJPNIlSfjQi28gkeAAAl] 
+14.6.2024, 18:04:47 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:04:48 - INFO - New connected socket [id: 7H_oVZHX1jnSC5l-AAAn] 
+14.6.2024, 18:04:48 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 7H_oVZHX1jnSC5l-AAAn] 
+14.6.2024, 18:10:03 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:10:04 - INFO - New connected socket [id: SAFBYP6MFnAx1mtMAAAp] 
+14.6.2024, 18:11:11 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:11:13 - INFO - New connected socket [id: lfMlWvtNhxm7hq66AAAr] 
+14.6.2024, 18:12:02 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:12:04 - INFO - New connected socket [id: LM-kpz5i-rMB_arWAAAt] 
+14.6.2024, 18:12:51 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:12:53 - INFO - New connected socket [id: p00GBjkWqsbdTfUcAAAv] 
+14.6.2024, 18:13:39 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:13:41 - INFO - New connected socket [id: HOAsdMEvdC7z1J2AAAAx] 
+14.6.2024, 18:13:56 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:13:58 - INFO - New connected socket [id: iXKotbiQiu4C-FaDAAAz] 
+14.6.2024, 18:14:20 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:14:22 - INFO - New connected socket [id: XuBURylMh1UkRXsGAAA1] 
+14.6.2024, 18:15:42 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:15:44 - INFO - New connected socket [id: NI-VhDCrxdJT0m3ZAAA3] 
+14.6.2024, 18:16:15 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 22:38:59 - INFO - No active socket for user: 63bafeb80000000000000102 
+14.6.2024, 22:38:59 - INFO - User: undefined is watching stay: Ribeira Charming Duplex 
+14.6.2024, 22:40:05 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 22:40:06 - INFO - New connected socket [id: vaUn3YVl7URw2B63AAA5] 
+14.6.2024, 22:40:08 - INFO - User: undefined is watching stay: Unique Villa Olipa Island 
+14.6.2024, 22:40:08 - INFO - No active socket for user: 63bafeb80000000000000112 
+15.6.2024, 0:10:27 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 0:10:29 - INFO - New connected socket [id: Ziknq_YrozCN3yyGAAA7] 
+15.6.2024, 0:20:43 - INFO - User: undefined is watching stay: Unique Villa Olipa Island 
+15.6.2024, 0:20:43 - INFO - No active socket for user: 63bafeb80000000000000112 
+15.6.2024, 0:20:50 - INFO - New connected socket [id: jAxAPfujgQuuFBCGAAA9] 
+15.6.2024, 0:30:24 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 0:30:26 - INFO - New connected socket [id: vYxcgLiqaPQHfuyQAAA_] 
+15.6.2024, 0:43:13 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 0:43:15 - INFO - New connected socket [id: b9S4KnUtgPhp7IPaAABB] 
+15.6.2024, 0:49:55 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 0:49:56 - INFO - New connected socket [id: d3XE82LgcJY7heaIAABD] 
+15.6.2024, 0:51:47 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 0:51:48 - INFO - New connected socket [id: 94gI2TIfPtFJgnMWAABF] 
+15.6.2024, 0:55:49 - INFO - Connected to DB 
+15.6.2024, 0:55:49 - INFO - Connected to DB 
+15.6.2024, 0:55:49 - INFO - New connected socket [id: Xy5-aS9Wsy3ELpQZAAAC] 
+15.6.2024, 0:55:50 - INFO - New connected socket [id: VvTB3ndAcuQCmZ4xAAAD] 
+15.6.2024, 0:55:56 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 0:55:57 - INFO - New connected socket [id: TPm17V2BNcQL3AOxAAAF] 
+15.6.2024, 0:57:47 - INFO - Connected to DB 
+15.6.2024, 0:57:47 - INFO - Connected to DB 
+15.6.2024, 0:57:47 - INFO - New connected socket [id: eHYDL8wVEJ6dy1BRAAAC] 
+15.6.2024, 0:57:47 - INFO - New connected socket [id: H_3tPwcs2_8XjFe-AAAD] 
+15.6.2024, 0:57:49 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 0:57:49 - INFO - New connected socket [id: zWqGV8y-2oteL4-dAAAF] 
+15.6.2024, 1:01:10 - INFO - Connected to DB 
+15.6.2024, 1:01:10 - INFO - Connected to DB 
+15.6.2024, 1:01:11 - INFO - New connected socket [id: xTQc9rV3gNyYCf3fAAAC] 
+15.6.2024, 1:01:11 - INFO - New connected socket [id: AI8a1DJxRL05Vm0_AAAD] 
+15.6.2024, 1:01:13 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:01:15 - INFO - New connected socket [id: FLQWtkBLpL9r9ZYyAAAF] 
+15.6.2024, 1:02:23 - INFO - Connected to DB 
+15.6.2024, 1:02:24 - INFO - Connected to DB 
+15.6.2024, 1:02:24 - INFO - New connected socket [id: 5vezpineGK2dRVQ6AAAC] 
+15.6.2024, 1:02:24 - INFO - New connected socket [id: TPihIAoYsIZ74nkJAAAD] 
+15.6.2024, 1:02:25 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:02:25 - INFO - New connected socket [id: P3vHFYHL0AhIA8XlAAAF] 
+15.6.2024, 1:02:57 - INFO - Connected to DB 
+15.6.2024, 1:02:57 - INFO - Connected to DB 
+15.6.2024, 1:02:57 - INFO - New connected socket [id: gCBjiE1Ge-4dwzuIAAAC] 
+15.6.2024, 1:02:57 - INFO - New connected socket [id: uMqMvjnhf6zRtSHRAAAD] 
+15.6.2024, 1:02:59 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:02:59 - INFO - New connected socket [id: rwLRDblXfgk6JfNmAAAF] 
+15.6.2024, 1:03:54 - INFO - Connected to DB 
+15.6.2024, 1:03:54 - INFO - Connected to DB 
+15.6.2024, 1:03:54 - INFO - New connected socket [id: U0lAFR37KfgMY12oAAAC] 
+15.6.2024, 1:03:54 - INFO - New connected socket [id: XkVKT4nCCmu9rJe_AAAD] 
+15.6.2024, 1:04:13 - INFO - Connected to DB 
+15.6.2024, 1:04:13 - INFO - Connected to DB 
+15.6.2024, 1:04:13 - INFO - New connected socket [id: FRoCYnTjDFZdJcUuAAAB] 
+15.6.2024, 1:04:13 - INFO - New connected socket [id: m9dyP9GUfuabrhGjAAAD] 
+15.6.2024, 1:04:14 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:04:15 - INFO - New connected socket [id: hqD7BwYkuCT_4vLjAAAF] 
+15.6.2024, 1:04:56 - INFO - Connected to DB 
+15.6.2024, 1:04:55 - INFO - Connected to DB 
+15.6.2024, 1:04:56 - INFO - New connected socket [id: yjnPT-OXCNCp4TM9AAAC] 
+15.6.2024, 1:04:56 - INFO - New connected socket [id: VricuXw15QjFeNLdAAAD] 
+15.6.2024, 1:04:58 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:04:59 - INFO - New connected socket [id: urLgkH_XsqErc4cKAAAF] 
+15.6.2024, 1:06:09 - INFO - Connected to DB 
+15.6.2024, 1:06:09 - INFO - Connected to DB 
+15.6.2024, 1:06:09 - INFO - New connected socket [id: JXk28YaoEy3OSgRqAAAC] 
+15.6.2024, 1:06:09 - INFO - New connected socket [id: 0MVkvLMJ-DBP1yxyAAAD] 
+15.6.2024, 1:06:12 - INFO - Connected to DB 
+15.6.2024, 1:06:12 - INFO - Connected to DB 
+15.6.2024, 1:06:13 - INFO - New connected socket [id: bbcs5905fwJCmwqDAAAC] 
+15.6.2024, 1:06:13 - INFO - New connected socket [id: j_p-uaXcRi_dnNQwAAAD] 
+15.6.2024, 1:06:31 - INFO - Connected to DB 
+15.6.2024, 1:06:31 - INFO - Connected to DB 
+15.6.2024, 1:06:31 - INFO - New connected socket [id: _C-o14pJWSICrRnCAAAC] 
+15.6.2024, 1:06:31 - INFO - New connected socket [id: AViugQUEm8ZL4V0pAAAD] 
+15.6.2024, 1:06:33 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:06:34 - INFO - New connected socket [id: Rm3C83coUh5-uuf0AAAF] 
+15.6.2024, 1:07:17 - INFO - Connected to DB 
+15.6.2024, 1:07:17 - INFO - Connected to DB 
+15.6.2024, 1:07:17 - INFO - New connected socket [id: 9FR331YZH4OisxwZAAAB] 
+15.6.2024, 1:07:20 - INFO - New connected socket [id: CYW1qL1XwVIIqOltAAAD] 
+15.6.2024, 1:08:13 - INFO - Connected to DB 
+15.6.2024, 1:08:13 - INFO - Connected to DB 
+15.6.2024, 1:08:13 - INFO - New connected socket [id: eCS9vmB-cg78Q0SLAAAC] 
+15.6.2024, 1:08:13 - INFO - New connected socket [id: G8GccQkG2v4lWD8IAAAD] 
+15.6.2024, 1:08:22 - INFO - Connected to DB 
+15.6.2024, 1:08:22 - INFO - Connected to DB 
+15.6.2024, 1:08:22 - INFO - New connected socket [id: 8qHnR0guVH40RgvmAAAC] 
+15.6.2024, 1:08:22 - INFO - New connected socket [id: 8-G1f0oQQY9sxSsbAAAD] 
+15.6.2024, 1:08:23 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:08:24 - INFO - New connected socket [id: nNa3ouR8GDGL_eOQAAAF] 
+15.6.2024, 1:11:11 - INFO - Connected to DB 
+15.6.2024, 1:11:11 - INFO - Connected to DB 
+15.6.2024, 1:11:12 - INFO - New connected socket [id: JP-DzKP93Pr6l0MZAAAB] 
+15.6.2024, 1:11:13 - INFO - New connected socket [id: 79GpDU8ZjuVKaOglAAAD] 
+15.6.2024, 1:12:09 - INFO - Connected to DB 
+15.6.2024, 1:12:09 - INFO - Connected to DB 
+15.6.2024, 1:12:09 - INFO - New connected socket [id: ySGPbvtPz51SgkLRAAAD] 
+15.6.2024, 1:12:09 - INFO - New connected socket [id: 28JyU_QNYz05R3LeAAAC] 
+15.6.2024, 1:12:11 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:12:12 - INFO - New connected socket [id: LUYZLIubt3ixeo3dAAAF] 
+15.6.2024, 1:12:42 - INFO - Connected to DB 
+15.6.2024, 1:12:42 - INFO - Connected to DB 
+15.6.2024, 1:12:42 - INFO - New connected socket [id: 9jK9cPVYknoPc-uzAAAC] 
+15.6.2024, 1:12:42 - INFO - New connected socket [id: wFHNJFVf_5AxLdHVAAAD] 
+15.6.2024, 1:13:09 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:13:09 - INFO - New connected socket [id: gLz4y9hR_1-wAxnFAAAF] 
+15.6.2024, 1:14:15 - INFO - Connected to DB 
+15.6.2024, 1:14:15 - INFO - Connected to DB 
+15.6.2024, 1:14:16 - INFO - New connected socket [id: qe1DNs7oPk53FufaAAAC] 
+15.6.2024, 1:14:16 - INFO - New connected socket [id: 6PGIvKm9PuZZDa8JAAAE] 
+15.6.2024, 1:15:54 - INFO - Connected to DB 
+15.6.2024, 1:15:54 - INFO - Connected to DB 
+15.6.2024, 1:15:54 - INFO - New connected socket [id: rbrjmcEuGye9iBL2AAAC] 
+15.6.2024, 1:15:54 - INFO - New connected socket [id: Geo-UNe6rryPT3nkAAAD] 
+15.6.2024, 1:16:11 - INFO - Connected to DB 
+15.6.2024, 1:16:11 - INFO - Connected to DB 
+15.6.2024, 1:16:11 - INFO - New connected socket [id: aDZ4wECmeSBlVC-JAAAC] 
+15.6.2024, 1:16:11 - INFO - New connected socket [id: a-Z_cQJcNMSGYiB5AAAD] 
+15.6.2024, 1:16:13 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:16:14 - INFO - New connected socket [id: emLqZ2ehoEsIraiVAAAF] 
+15.6.2024, 1:16:43 - INFO - Connected to DB 
+15.6.2024, 1:16:43 - INFO - Connected to DB 
+15.6.2024, 1:16:43 - INFO - New connected socket [id: fsyItNDZEQlrVht4AAAC] 
+15.6.2024, 1:16:43 - INFO - New connected socket [id: 4Oa_9ugu8iXY66miAAAD] 
+15.6.2024, 1:17:01 - INFO - Connected to DB 
+15.6.2024, 1:17:01 - INFO - Connected to DB 
+15.6.2024, 1:17:01 - INFO - New connected socket [id: oFbxgnhoYweeKkljAAAC] 
+15.6.2024, 1:17:01 - INFO - New connected socket [id: ZTfE2NrhIACtEPCUAAAD] 
+15.6.2024, 1:17:26 - INFO - Connected to DB 
+15.6.2024, 1:17:26 - INFO - Connected to DB 
+15.6.2024, 1:17:26 - INFO - New connected socket [id: 0jTQUaIq3-N50N6RAAAC] 
+15.6.2024, 1:17:26 - INFO - New connected socket [id: 0WCBO5psxW7sd2bHAAAD] 
+15.6.2024, 1:17:27 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:17:28 - INFO - New connected socket [id: bEXIRRPn5oeUg7sWAAAF] 
+15.6.2024, 1:18:38 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:18:39 - INFO - New connected socket [id: unUU1X2KPB6wVBAOAAAH] 
+15.6.2024, 1:22:29 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:22:30 - INFO - New connected socket [id: JFyY11aaKHTcgP8bAAAJ] 
+15.6.2024, 1:23:32 - INFO - Connected to DB 
+15.6.2024, 1:23:32 - INFO - Connected to DB 
+15.6.2024, 1:23:32 - INFO - New connected socket [id: 2fIHnNCj5HgqBBoeAAAC] 
+15.6.2024, 1:23:32 - INFO - New connected socket [id: zTDWv7poFKN7s5GYAAAD] 
+15.6.2024, 1:23:48 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 1:23:49 - INFO - New connected socket [id: RY8_5MLhJ-irTS9TAAAF] 
+15.6.2024, 1:24:40 - INFO - Connected to DB 
+15.6.2024, 1:24:40 - INFO - Connected to DB 
+15.6.2024, 1:24:40 - INFO - New connected socket [id: reBmLh7f3gr1jjPuAAAD] 
+15.6.2024, 1:24:40 - INFO - New connected socket [id: Z38rioQM_lyLAlfGAAAC] 
