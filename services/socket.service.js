@@ -18,9 +18,9 @@ export function setupSocketAPI(http) {
             emitToUser({ type: 'new-order', data: buyer_id, userId: hostId })
         })
 
-        socket.on('notify-order-status', ({ hostId, buyer_id }) => {
+        socket.on('notify-order-status', ({ order, hostId, buyer_id }) => {
             logger.info(`Notify new order status to buyer [id: ${buyer_id}]`)
-            emitToUser({ type: 'order-status', data: hostId, userId: buyer_id })
+            emitToUser({ type: 'order-status', data: order, userId: buyer_id })
         })
 
         socket.on('set-user-socket', userId => {
@@ -35,7 +35,7 @@ export function setupSocketAPI(http) {
 
         socket.on('notify-user-watching-stay', ({ userName, stayName, hostId }) => {
             logger.info(`User: ${userName} is watching stay: ${stayName}`)
-            emitToUser({ type: 'user-watching', data: {userName, stayName}, userId: hostId })
+            emitToUser({ type: 'user-watching', data: { userName, stayName }, userId: hostId })
         })
     })
 }
