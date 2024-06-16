@@ -13,12 +13,14 @@ export const userService = {
     getByUsername // Used for Login
 }
 
+const collectionName = 'users2'
+
 const users = await query()
 
 async function query(filterBy = {}) {
     const criteria = _buildCriteria(filterBy)
     try {
-        const collection = await dbService.getCollection('users')
+        const collection = await dbService.getCollection(collectionName)
         var users = await collection.find(criteria).toArray()
         users = users.map(user => {
             delete user.password
@@ -37,7 +39,7 @@ async function query(filterBy = {}) {
 
 async function getById(userId) {
     try {
-        const collection = await dbService.getCollection('users')
+        const collection = await dbService.getCollection(collectionName)
         const user = await collection.findOne({ _id: new ObjectId(userId) })
         delete user.password
 
@@ -57,7 +59,7 @@ async function getById(userId) {
 async function getByUsername(fullname) {
     try {
         console.log(" getByUsername fullname", fullname)
-        const collection = await dbService.getCollection('users')
+        const collection = await dbService.getCollection(collectionName)
         const user = await collection.findOne({ fullname })
         return user
     } catch (err) {
@@ -68,7 +70,7 @@ async function getByUsername(fullname) {
 
 async function remove(userId) {
     try {
-        const collection = await dbService.getCollection('users')
+        const collection = await dbService.getCollection(collectionName)
         await collection.deleteOne({ _id: new ObjectId(userId) })
     } catch (err) {
         logger.error(`cannot remove user ${userId}`, err)
@@ -84,7 +86,7 @@ async function update(user) {
             fullname: user.fullname,
             score: user.score,
         }
-        const collection = await dbService.getCollection('users')
+        const collection = await dbService.getCollection(collectionName)
         await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
         return userToSave
     } catch (err) {
@@ -103,7 +105,7 @@ async function add(user) {
             email: user.email,
         }
         logger.debug(userToAdd)
-        const collection = await dbService.getCollection('users')
+        const collection = await dbService.getCollection(collectionName)
         await collection.insertOne(userToAdd)
         return userToAdd
     } catch (err) {
