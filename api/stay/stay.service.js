@@ -19,6 +19,7 @@ export const stayService = {
 async function query(filterBy = {}) {
     try {
         const criteria = _buildCriteria(filterBy)
+        console.log("criteria", JSON.stringify(criteria, null, 2))
         const collection = await dbService.getCollection(collectionName)
         const stayCursor = await collection.find(criteria)
 
@@ -119,7 +120,7 @@ async function removeStayMsg(stayId, msgId) {
 
 async function save(stayToSave) {
     try {
-        const collection = await dbService.getCollection('stays')
+        const collection = await dbService.getCollection(collectionName)
         const savedStay = await collection.insertOne(stayToSave)
         stayToSave._id = savedStay.insertedId
         logger.debug(stayToSave)
@@ -175,17 +176,21 @@ function _buildCriteria(filterBy) {
         criteria['loc.country'] = { $regex: filterBy.country, $options: 'i' }
     }
 
-    if (filterBy.startDate && filterBy.endDate) {
-        criteria.availableDates = {
-            $elemMatch: {
-                start: { $lte: new Date(filterBy.startDate) },
-                end: { $gte: new Date(filterBy.endDate) }
-            }
-        }
+    if (filterBy.startDate) {
+        criteria.startDate = { $lte: new Date(filterBy.startDate) }
     }
+
+    if (filterBy.endDate) {
+        criteria.endDate = { $gte: new Date(filterBy.endDate) }
+    }
+
+
 
     return criteria
 }
+
+
+
 
 function _saveStaysToFile(path = './data/stays.json') {
     return new Promise((resolve, reject) => {
