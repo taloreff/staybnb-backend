@@ -6,7 +6,7 @@ import { logger } from '../../services/logger.service.js';
 
 const PAGE_SIZE = 2
 // const stays = utilService.readJsonFile('data/stays.json')
-const collectionName = 'stays'
+const collectionName = 'stays2'
 
 export const stayService = {
     query,

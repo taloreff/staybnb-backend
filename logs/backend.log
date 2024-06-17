@@ -1627,3 +1627,307 @@
 13.6.2024, 17:24:46 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: 2yi6EKdKq631hqI9AAAL] 
 13.6.2024, 17:24:46 - INFO - User: 2 is watching stay: Azamra Amirim 
 13.6.2024, 17:24:46 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: hYWEh6niYtRnj73XAAAF] 
+13.6.2024, 17:27:00 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 11:38:42 - INFO - Connected to DB 
+14.6.2024, 11:38:42 - INFO - Connected to DB 
+14.6.2024, 11:40:43 - INFO - New connected socket [id: DM-0hYL2AY6cW21LAAAB] 
+14.6.2024, 12:40:30 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 18:46:08 - INFO - Connected to DB 
+14.6.2024, 18:46:08 - INFO - Connected to DB 
+14.6.2024, 18:47:46 - INFO - New connected socket [id: cp0wUdLMA4c1_ZOlAAAB] 
+14.6.2024, 18:48:02 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 18:48:02 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: cp0wUdLMA4c1_ZOlAAAB] 
+14.6.2024, 19:00:06 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:00:07 - INFO - New connected socket [id: tqpf1RbjNlrQrt6-AAAD] 
+14.6.2024, 19:00:07 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: tqpf1RbjNlrQrt6-AAAD] 
+14.6.2024, 19:00:11 - INFO - Removing socket.userId for socket [id: tqpf1RbjNlrQrt6-AAAD] 
+14.6.2024, 19:00:16 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:00:17 - INFO - New connected socket [id: 0zJG09xgefTAKEGlAAAF] 
+14.6.2024, 19:00:25 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 19:00:25 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 0zJG09xgefTAKEGlAAAF] 
+14.6.2024, 19:00:38 - INFO - Removing socket.userId for socket [id: 0zJG09xgefTAKEGlAAAF] 
+14.6.2024, 19:00:42 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:00:42 - INFO - New connected socket [id: JJSSpaNeR1Nnl4aKAAAH] 
+14.6.2024, 19:00:50 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+14.6.2024, 19:00:50 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: JJSSpaNeR1Nnl4aKAAAH] 
+14.6.2024, 19:09:50 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:09:51 - INFO - New connected socket [id: PcdqLgfUeyT7jlb6AAAJ] 
+14.6.2024, 19:09:51 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: PcdqLgfUeyT7jlb6AAAJ] 
+14.6.2024, 19:10:36 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:10:37 - INFO - New connected socket [id: SCsaSQ5HrveZlQyZAAAL] 
+14.6.2024, 19:10:38 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: SCsaSQ5HrveZlQyZAAAL] 
+14.6.2024, 19:13:00 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:13:01 - INFO - New connected socket [id: -QOnN4c8PHbW8JSxAAAN] 
+14.6.2024, 19:13:02 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: -QOnN4c8PHbW8JSxAAAN] 
+14.6.2024, 19:13:49 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:13:50 - INFO - New connected socket [id: eEhV0Hp7sghDZjB5AAAP] 
+14.6.2024, 19:13:51 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: eEhV0Hp7sghDZjB5AAAP] 
+14.6.2024, 19:14:44 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:14:45 - INFO - New connected socket [id: aWjsZ1xRr2uoxZ5XAAAR] 
+14.6.2024, 19:14:46 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: aWjsZ1xRr2uoxZ5XAAAR] 
+14.6.2024, 19:15:59 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:16:00 - INFO - New connected socket [id: zBJW78ET3RWjEFGGAAAT] 
+14.6.2024, 19:16:00 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: zBJW78ET3RWjEFGGAAAT] 
+14.6.2024, 19:16:31 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:16:32 - INFO - New connected socket [id: LUyAklX8UWdUbX_hAAAV] 
+14.6.2024, 19:16:32 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: LUyAklX8UWdUbX_hAAAV] 
+14.6.2024, 19:16:52 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:16:53 - INFO - New connected socket [id: r5djuOoooHxw9hfPAAAX] 
+14.6.2024, 19:16:53 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: r5djuOoooHxw9hfPAAAX] 
+14.6.2024, 19:21:18 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:21:19 - INFO - New connected socket [id: JKSYSbTyMXQplHJJAAAZ] 
+14.6.2024, 19:21:20 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: JKSYSbTyMXQplHJJAAAZ] 
+14.6.2024, 19:21:42 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:21:44 - INFO - New connected socket [id: OqoIxnENluXbW4-HAAAb] 
+14.6.2024, 19:21:44 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: OqoIxnENluXbW4-HAAAb] 
+14.6.2024, 19:24:45 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:24:57 - INFO - New connected socket [id: hhwF2BFIKmLI_eGoAAAd] 
+14.6.2024, 19:24:57 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: hhwF2BFIKmLI_eGoAAAd] 
+14.6.2024, 19:27:55 - INFO - New connected socket [id: 8gnPstUxcsBsKhj-AAAf] 
+14.6.2024, 19:27:55 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: 8gnPstUxcsBsKhj-AAAf] 
+14.6.2024, 19:27:56 - INFO - User: 2 is watching stay: Unique Villa Olipa Island 
+14.6.2024, 19:27:56 - INFO - No active socket for user: 63bafeb80000000000000112 
+14.6.2024, 19:28:13 - DEBUG - {"totalPrice":560,"startDate":"2024-07-08","endDate":"2024-07-15","guests":{"adults":3,"kids":0},"status":"pending","hostId":"63bafeb80000000000000112","buyer":{"id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"6664a2e09f2b850035594378","name":"Unique Villa Olipa Island","price":80,"imgUrl":{"imgUrl":"http://res.cloudinary.com/dqti9icif/image/upload/v1717479800/stay1.1_deskyd.webp"}}} (userId: 6668104d0eaede2f8f16df02)
+14.6.2024, 19:28:14 - INFO - Notify new order to host [id: 63bafeb80000000000000112] 
+14.6.2024, 19:28:14 - INFO - No active socket for user: 63bafeb80000000000000112 
+14.6.2024, 19:28:17 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:31:11 - INFO - New connected socket [id: DqbD_TGyxVU-bYBDAAAh] 
+14.6.2024, 19:31:11 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: DqbD_TGyxVU-bYBDAAAh] 
+14.6.2024, 19:31:11 - INFO - User: 2 is watching stay: Villa Adventure -heated pool, media room 
+14.6.2024, 19:31:11 - INFO - No active socket for user: 63bafeb80000000000000105 
+14.6.2024, 19:31:18 - DEBUG - {"totalPrice":5100,"startDate":"2024-07-02","endDate":"2024-07-19","guests":{"adults":3,"kids":0},"status":"pending","hostId":"63bafeb80000000000000105","buyer":{"id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"6664a2e09f2b85003559437f","name":"Villa Adventure -heated pool, media room","price":300,"imgUrl":"http://res.cloudinary.com/dqti9icif/image/upload/v1717409601/stay8.1_rb5xrc.webp"}} (userId: 6668104d0eaede2f8f16df02)
+14.6.2024, 19:31:19 - INFO - Notify new order to host [id: 63bafeb80000000000000105] 
+14.6.2024, 19:31:19 - INFO - No active socket for user: 63bafeb80000000000000105 
+14.6.2024, 19:32:03 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:34:36 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:34:37 - INFO - New connected socket [id: CYUFff2RIAReuYGTAAAj] 
+14.6.2024, 19:34:37 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: CYUFff2RIAReuYGTAAAj] 
+14.6.2024, 19:34:59 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:35:01 - INFO - New connected socket [id: ZwhJv-nRsDGmtOIcAAAl] 
+14.6.2024, 19:35:01 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: ZwhJv-nRsDGmtOIcAAAl] 
+14.6.2024, 19:35:13 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:35:14 - INFO - New connected socket [id: SIoAQcVSqHy_tcBTAAAn] 
+14.6.2024, 19:35:14 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: SIoAQcVSqHy_tcBTAAAn] 
+14.6.2024, 19:35:23 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:35:23 - INFO - New connected socket [id: ZjMweEsUUE0rczeHAAAp] 
+14.6.2024, 19:35:24 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: ZjMweEsUUE0rczeHAAAp] 
+14.6.2024, 19:35:54 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:35:55 - INFO - New connected socket [id: Vi9vqJQeRNeEzHcAAAAr] 
+14.6.2024, 19:35:56 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: Vi9vqJQeRNeEzHcAAAAr] 
+14.6.2024, 19:36:22 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:36:23 - INFO - New connected socket [id: PVrsdQ6HlSyfWlXiAAAt] 
+14.6.2024, 19:36:23 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: PVrsdQ6HlSyfWlXiAAAt] 
+14.6.2024, 19:36:37 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:36:38 - INFO - New connected socket [id: xJnYYNidcWrqV72eAAAv] 
+14.6.2024, 19:36:39 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: xJnYYNidcWrqV72eAAAv] 
+14.6.2024, 19:43:56 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:47:28 - INFO - New connected socket [id: gWWnyeHzEvbrcjTYAAAx] 
+14.6.2024, 19:47:28 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: gWWnyeHzEvbrcjTYAAAx] 
+14.6.2024, 19:51:42 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:51:43 - INFO - New connected socket [id: mClXAD3DBaUZ_da2AAAz] 
+14.6.2024, 19:51:43 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: mClXAD3DBaUZ_da2AAAz] 
+14.6.2024, 19:52:45 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:52:46 - INFO - New connected socket [id: 7SEzJXyXVTGz3Q3hAAA1] 
+14.6.2024, 19:52:46 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: 7SEzJXyXVTGz3Q3hAAA1] 
+14.6.2024, 19:56:29 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 19:56:30 - INFO - New connected socket [id: tfy9cQ4r6ZBgmUw4AAA3] 
+14.6.2024, 19:56:30 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: tfy9cQ4r6ZBgmUw4AAA3] 
+14.6.2024, 20:04:58 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 20:04:59 - INFO - New connected socket [id: 4zrrJgqJjnpFYHcPAAA5] 
+14.6.2024, 20:04:59 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: 4zrrJgqJjnpFYHcPAAA5] 
+14.6.2024, 20:08:31 - INFO - New connected socket [id: T9zGXN4LPD2MMQY8AAA7] 
+14.6.2024, 20:10:37 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 20:10:38 - INFO - New connected socket [id: suGRX73n6MST5kVfAAA9] 
+14.6.2024, 20:10:39 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: suGRX73n6MST5kVfAAA9] 
+14.6.2024, 20:20:22 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 20:27:00 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 20:27:01 - INFO - New connected socket [id: xHW2bsv_5JO4MT5uAAA_] 
+14.6.2024, 20:27:02 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: xHW2bsv_5JO4MT5uAAA_] 
+14.6.2024, 20:31:12 - INFO - User: 2 is watching stay: Ligaria Mare Villa Earth with private seaview pool 
+14.6.2024, 20:31:12 - INFO - No active socket for user: 63bafeb80000000000000104 
+14.6.2024, 20:31:19 - DEBUG - {"totalPrice":1400,"startDate":"2024-07-01","endDate":"2024-07-15","guests":{"adults":3,"kids":0},"status":"pending","hostId":"63bafeb80000000000000104","buyer":{"id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"6664a2e09f2b85003559437b","name":"Ligaria Mare Villa Earth with private seaview pool","price":100,"imgUrl":"http://res.cloudinary.com/dqti9icif/image/upload/v1717400770/stay3.1_tev2bv.webp"}} (userId: 6668104d0eaede2f8f16df02)
+14.6.2024, 20:31:19 - INFO - Notify new order to host [id: 63bafeb80000000000000104] 
+14.6.2024, 20:31:19 - INFO - No active socket for user: 63bafeb80000000000000104 
+14.6.2024, 20:31:30 - INFO - User: 2 is watching stay: Love • Attico FronteMare FCO 
+14.6.2024, 20:31:30 - INFO - No active socket for user: 63bafeb80000000000000106 
+14.6.2024, 20:31:37 - DEBUG - {"totalPrice":1750,"startDate":"2024-07-02","endDate":"2024-07-09","guests":{"adults":1,"kids":0},"status":"pending","hostId":"63bafeb80000000000000106","buyer":{"id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"6664a2e09f2b850035594382","name":"Love • Attico FronteMare FCO","price":250,"imgUrl":"http://res.cloudinary.com/dqti9icif/image/upload/v1717411460/stay11.1_r5qml3.webp"}} (userId: 6668104d0eaede2f8f16df02)
+14.6.2024, 20:31:37 - INFO - Notify new order to host [id: 63bafeb80000000000000106] 
+14.6.2024, 20:31:37 - INFO - No active socket for user: 63bafeb80000000000000106 
+14.6.2024, 20:39:07 - INFO - Socket disconnected [id: undefined] 
+14.6.2024, 20:39:09 - INFO - New connected socket [id: H_Wo7F5CCraNySGqAABB] 
+14.6.2024, 20:39:09 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: H_Wo7F5CCraNySGqAABB] 
+14.6.2024, 20:51:34 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 12:18:35 - INFO - Connected to DB 
+15.6.2024, 12:18:35 - INFO - Connected to DB 
+15.6.2024, 12:20:28 - INFO - New connected socket [id: ObIgvA74GaZWQoDxAAAB] 
+15.6.2024, 12:21:03 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+15.6.2024, 12:21:03 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: ObIgvA74GaZWQoDxAAAB] 
+15.6.2024, 12:31:38 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 12:31:39 - INFO - New connected socket [id: 5HXtIZG3apW3wTSFAAAD] 
+15.6.2024, 12:31:39 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: 5HXtIZG3apW3wTSFAAAD] 
+15.6.2024, 12:35:57 - INFO - New connected socket [id: 9G0gpkMCxtcMwD20AAAF] 
+15.6.2024, 12:36:05 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+15.6.2024, 12:36:05 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 9G0gpkMCxtcMwD20AAAF] 
+15.6.2024, 12:36:12 - INFO - User: 2 is watching stay: Azamra Amirim 
+15.6.2024, 12:36:12 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: 9G0gpkMCxtcMwD20AAAF] 
+15.6.2024, 12:36:27 - DEBUG - {"totalPrice":2240,"startDate":"2024-07-01","endDate":"2024-07-15","guests":{"adults":2,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160,"imgUrl":"http://res.cloudinary.com/dqti9icif/image/upload/v1717410862/stay10.1_hhtufo.webp"}} (userId: 6668104d0eaede2f8f16df02)
+15.6.2024, 12:36:27 - INFO - Notify new order to host [id: 6665975962b40552f2941b54] 
+15.6.2024, 12:36:27 - INFO - Emiting event: new-order to user: 6665975962b40552f2941b54 socket [id: 9G0gpkMCxtcMwD20AAAF] 
+15.6.2024, 12:36:48 - INFO - Notify new order status to buyer [id: 6668104d0eaede2f8f16df02] 
+15.6.2024, 12:36:48 - INFO - Emiting event: order-status to user: 6668104d0eaede2f8f16df02 socket [id: 5HXtIZG3apW3wTSFAAAD] 
+15.6.2024, 12:36:57 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 12:36:58 - INFO - New connected socket [id: HrLHh5FobdiA6FWCAAAH] 
+15.6.2024, 12:36:58 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: HrLHh5FobdiA6FWCAAAH] 
+15.6.2024, 12:37:19 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 12:38:57 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 12:38:58 - INFO - New connected socket [id: jFQx__UBH-PA8y2PAAAJ] 
+15.6.2024, 12:38:58 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: jFQx__UBH-PA8y2PAAAJ] 
+15.6.2024, 12:47:27 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 12:47:27 - INFO - New connected socket [id: kBoSAZPn3x5GLP66AAAL] 
+15.6.2024, 12:47:40 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6668104d0eaede2f8f16df02)
+15.6.2024, 12:47:40 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: kBoSAZPn3x5GLP66AAAL] 
+15.6.2024, 12:47:51 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 12:47:51 - INFO - New connected socket [id: 1q9Spd4IQ_nVdaCBAAAN] 
+15.6.2024, 12:47:52 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 1q9Spd4IQ_nVdaCBAAAN] 
+15.6.2024, 12:56:14 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 12:56:15 - INFO - New connected socket [id: jgxy2Xdo398XExKEAAAP] 
+15.6.2024, 12:56:15 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: jgxy2Xdo398XExKEAAAP] 
+15.6.2024, 13:09:55 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:09:56 - INFO - New connected socket [id: b3blPoh6oleF51ZkAAAR] 
+15.6.2024, 13:09:57 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: b3blPoh6oleF51ZkAAAR] 
+15.6.2024, 13:11:13 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:11:14 - INFO - New connected socket [id: 4ju41cwq_Ih1esK5AAAT] 
+15.6.2024, 13:11:14 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 4ju41cwq_Ih1esK5AAAT] 
+15.6.2024, 13:13:24 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:13:25 - INFO - New connected socket [id: svfOWRroJpRdxiDcAAAV] 
+15.6.2024, 13:13:25 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: svfOWRroJpRdxiDcAAAV] 
+15.6.2024, 13:14:40 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:14:41 - INFO - New connected socket [id: kzwPgDJKkuEp0RGtAAAX] 
+15.6.2024, 13:14:41 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: kzwPgDJKkuEp0RGtAAAX] 
+15.6.2024, 13:21:20 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:21:33 - INFO - New connected socket [id: rJJH8z5ckFdPUCcgAAAZ] 
+15.6.2024, 13:21:33 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: rJJH8z5ckFdPUCcgAAAZ] 
+15.6.2024, 13:27:34 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:27:35 - INFO - New connected socket [id: KpZIInM21LoLzPThAAAb] 
+15.6.2024, 13:27:36 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: KpZIInM21LoLzPThAAAb] 
+15.6.2024, 13:34:41 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:35:09 - INFO - New connected socket [id: numoyjbcV7IdFWxtAAAd] 
+15.6.2024, 13:35:09 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: numoyjbcV7IdFWxtAAAd] 
+15.6.2024, 13:35:12 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:35:12 - INFO - New connected socket [id: PNT9NYuKdluwBUhMAAAf] 
+15.6.2024, 13:35:12 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: PNT9NYuKdluwBUhMAAAf] 
+15.6.2024, 13:43:32 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:43:33 - INFO - New connected socket [id: GKzafCfonSEvgM6fAAAh] 
+15.6.2024, 13:43:33 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: GKzafCfonSEvgM6fAAAh] 
+15.6.2024, 13:56:35 - INFO - New connected socket [id: qyy5So-TcCbKD-m1AAAj] 
+15.6.2024, 13:56:46 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+15.6.2024, 13:56:46 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: qyy5So-TcCbKD-m1AAAj] 
+15.6.2024, 13:56:49 - INFO - User: 2 is watching stay: Azamra Amirim 
+15.6.2024, 13:56:49 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: GKzafCfonSEvgM6fAAAh] 
+15.6.2024, 13:57:01 - DEBUG - {"totalPrice":320,"startDate":"2024-11-13","endDate":"2024-11-15","guests":{"adults":1,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"66681424e6d6a5be18d240d6","name":"Azamra Amirim","price":160,"imgUrl":"http://res.cloudinary.com/dqti9icif/image/upload/v1717410862/stay10.1_hhtufo.webp"}} (userId: 6668104d0eaede2f8f16df02)
+15.6.2024, 13:57:01 - INFO - Notify new order to host [id: 6665975962b40552f2941b54] 
+15.6.2024, 13:57:01 - INFO - Emiting event: new-order to user: 6665975962b40552f2941b54 socket [id: GKzafCfonSEvgM6fAAAh] 
+15.6.2024, 13:57:07 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:57:09 - INFO - New connected socket [id: RMPXkcRXJyHldzPeAAAl] 
+15.6.2024, 13:57:09 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: RMPXkcRXJyHldzPeAAAl] 
+15.6.2024, 13:58:11 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:58:12 - INFO - New connected socket [id: 41N2mdWZsEohIrmKAAAn] 
+15.6.2024, 13:58:12 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 41N2mdWZsEohIrmKAAAn] 
+15.6.2024, 13:58:54 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 13:58:55 - INFO - New connected socket [id: u35YWj9q9iLm3auPAAAp] 
+15.6.2024, 13:58:56 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: u35YWj9q9iLm3auPAAAp] 
+15.6.2024, 14:11:44 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 14:11:55 - INFO - New connected socket [id: z2aPYsDy7ACF3OV-AAAr] 
+15.6.2024, 14:11:55 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: z2aPYsDy7ACF3OV-AAAr] 
+15.6.2024, 14:12:03 - INFO - User: 1 is watching stay: Unique Villa Olipa Island 
+15.6.2024, 14:12:03 - INFO - No active socket for user: 63bafeb80000000000000112 
+15.6.2024, 14:13:31 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: z2aPYsDy7ACF3OV-AAAr] 
+15.6.2024, 14:13:31 - INFO - User: 1 is watching stay: Casa de Viola 
+15.6.2024, 14:13:51 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 14:13:52 - INFO - New connected socket [id: 9EgSLxeBhPbWNVqRAAAt] 
+15.6.2024, 14:13:52 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: 9EgSLxeBhPbWNVqRAAAt] 
+15.6.2024, 14:14:28 - INFO - User: 1 is watching stay: Azamra Amirim 
+15.6.2024, 14:14:28 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: z2aPYsDy7ACF3OV-AAAr] 
+15.6.2024, 14:17:02 - INFO - User: 1 is watching stay: Unique Villa Olipa Island 
+15.6.2024, 14:17:02 - INFO - No active socket for user: 63bafeb80000000000000112 
+15.6.2024, 15:04:40 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 15:05:00 - INFO - New connected socket [id: 4mPnfBoXnNx3nnxxAAAv] 
+15.6.2024, 15:05:00 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: 4mPnfBoXnNx3nnxxAAAv] 
+15.6.2024, 15:09:37 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 15:09:40 - INFO - New connected socket [id: -BaAe0dySlEoOM3cAAAx] 
+15.6.2024, 15:09:41 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: -BaAe0dySlEoOM3cAAAx] 
+15.6.2024, 15:10:49 - INFO - User: 2 is watching stay: Azamra Amirim 
+15.6.2024, 15:10:49 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: 4mPnfBoXnNx3nnxxAAAv] 
+15.6.2024, 15:17:11 - INFO - New connected socket [id: 9EQRc2M7pZPsRqNLAAAz] 
+15.6.2024, 15:17:12 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: 9EQRc2M7pZPsRqNLAAAz] 
+15.6.2024, 15:17:13 - INFO - User: 2 is watching stay: Azamra Amirim 
+15.6.2024, 15:17:13 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: 4mPnfBoXnNx3nnxxAAAv] 
+15.6.2024, 15:17:13 - INFO - User: 2 is watching stay: Azamra Amirim 
+15.6.2024, 15:17:13 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: 4mPnfBoXnNx3nnxxAAAv] 
+15.6.2024, 15:17:16 - INFO - New connected socket [id: LVMl9WfjNTxFue13AAA1] 
+15.6.2024, 15:17:16 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: LVMl9WfjNTxFue13AAA1] 
+15.6.2024, 15:17:59 - INFO - User: 2 is watching stay: Azamra Amirim 
+15.6.2024, 15:17:59 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: 4mPnfBoXnNx3nnxxAAAv] 
+15.6.2024, 15:18:46 - INFO - User: 2 is watching stay: Casa de Viola 
+15.6.2024, 15:18:46 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: 4mPnfBoXnNx3nnxxAAAv] 
+15.6.2024, 15:20:22 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 15:20:22 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 15:20:26 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 15:20:26 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 15:20:27 - INFO - New connected socket [id: CcpR_WHSk4xV_AsxAAA3] 
+15.6.2024, 15:20:30 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: CcpR_WHSk4xV_AsxAAA3] 
+15.6.2024, 15:20:30 - INFO - User: 2 is watching stay: Casa de Viola 
+15.6.2024, 15:20:30 - INFO - No active socket for user: 6665975962b40552f2941b54 
+15.6.2024, 15:20:30 - INFO - New connected socket [id: NWJh2FgsJ3hRKowTAAA5] 
+15.6.2024, 15:20:32 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: NWJh2FgsJ3hRKowTAAA5] 
+15.6.2024, 15:20:47 - INFO - User: 2 is watching stay: Azamra Amirim 
+15.6.2024, 15:20:47 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: NWJh2FgsJ3hRKowTAAA5] 
+15.6.2024, 15:25:57 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 15:26:00 - INFO - New connected socket [id: mkE1PyVviETzywUBAAA7] 
+15.6.2024, 15:26:01 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: mkE1PyVviETzywUBAAA7] 
+15.6.2024, 15:27:58 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 15:28:20 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 19:09:17 - INFO - Connected to DB 
+15.6.2024, 19:09:17 - INFO - Connected to DB 
+15.6.2024, 19:09:47 - INFO - New connected socket [id: mNPJxuu5wNC6CIKQAAAB] 
+15.6.2024, 19:10:09 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 19:10:10 - INFO - New connected socket [id: bWtHqMWe96z8MqUwAAAD] 
+15.6.2024, 19:10:29 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+15.6.2024, 19:10:29 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: bWtHqMWe96z8MqUwAAAD] 
+15.6.2024, 19:11:56 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 19:11:58 - INFO - New connected socket [id: egK3nrBp61Du2c9pAAAF] 
+15.6.2024, 19:11:59 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: egK3nrBp61Du2c9pAAAF] 
+15.6.2024, 19:14:53 - INFO - New connected socket [id: c-ePhm14YT0i5UelAAAH] 
+15.6.2024, 19:15:20 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 19:15:21 - INFO - New connected socket [id: 7gdVJZHJ2OxpvnSiAAAJ] 
+15.6.2024, 19:15:27 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 19:15:28 - INFO - New connected socket [id: qERzraE7EfdiKbprAAAL] 
+15.6.2024, 19:16:24 - INFO - User login:  | {"_id":"6668104d0eaede2f8f16df02","fullname":"2","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} (userId: 6665975962b40552f2941b54)
+15.6.2024, 19:16:24 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: qERzraE7EfdiKbprAAAL] 
+15.6.2024, 19:16:37 - INFO - User login:  | {"_id":"6665975962b40552f2941b54","fullname":"1","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+15.6.2024, 19:16:37 - INFO - SOCKET Setting socket.userId = 6665975962b40552f2941b54 for socket [id: c-ePhm14YT0i5UelAAAH] 
+15.6.2024, 19:16:44 - DEBUG - {"totalPrice":1960,"startDate":"2024-07-01","endDate":"2024-07-08","guests":{"adults":3,"kids":0},"status":"pending","hostId":"6665975962b40552f2941b54","buyer":{"id":"6668104d0eaede2f8f16df02","fullname":"2"},"stay":{"_id":"666c355d5f42da531fa427f5","name":"Casa de Viola","price":280,"imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/v1718367498/Screenshot_2023-08-16_115744_nrf11w.png"}} (userId: 6668104d0eaede2f8f16df02)
+15.6.2024, 19:16:44 - INFO - Notify new order to host [id: 6665975962b40552f2941b54] 
+15.6.2024, 19:16:44 - INFO - Emiting event: new-order to user: 6665975962b40552f2941b54 socket [id: c-ePhm14YT0i5UelAAAH] 
+15.6.2024, 19:17:21 - INFO - Notify new order status to buyer [id: 6668104d0eaede2f8f16df02] 
+15.6.2024, 19:17:21 - INFO - Emiting event: order-status to user: 6668104d0eaede2f8f16df02 socket [id: qERzraE7EfdiKbprAAAL] 
+15.6.2024, 19:18:02 - INFO - User: 2 is watching stay: The Beachside Bungalow 
+15.6.2024, 19:18:02 - INFO - No active socket for user: 63bafeb80000000000000105 
+15.6.2024, 19:18:36 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 19:18:37 - INFO - New connected socket [id: wO7jxHp3o9vZNAA4AAAN] 
+15.6.2024, 19:18:53 - INFO - Socket disconnected [id: undefined] 
+15.6.2024, 19:18:57 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 15:52:20 - INFO - Connected to DB 
+17.6.2024, 15:52:21 - INFO - Connected to DB 
+17.6.2024, 15:53:44 - INFO - New connected socket [id: FiDXTydcFHntWs5pAAAB] 
+17.6.2024, 15:56:36 - INFO - Connected to DB 
+17.6.2024, 15:56:36 - INFO - Connected to DB 
+17.6.2024, 15:56:39 - INFO - New connected socket [id: g4ZUxJKyDdIphVdDAAAB] 
+17.6.2024, 16:05:50 - INFO - Connected to DB 
+17.6.2024, 16:05:50 - INFO - Connected to DB 
+17.6.2024, 16:05:50 - INFO - New connected socket [id: JzlVRcpjtR6AmxO4AAAB] 
+17.6.2024, 16:06:20 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 16:06:22 - INFO - New connected socket [id: ZA3szvg91jmJhsqJAAAD] 
+17.6.2024, 16:18:24 - INFO - Connected to DB 
+17.6.2024, 16:18:24 - INFO - Connected to DB 
+17.6.2024, 16:18:29 - INFO - New connected socket [id: N-86NPdPWBaUqZjbAAAB] 
