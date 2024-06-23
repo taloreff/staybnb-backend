@@ -1627,3 +1627,179 @@
 13.6.2024, 17:24:46 - INFO - SOCKET Setting socket.userId = 6668104d0eaede2f8f16df02 for socket [id: 2yi6EKdKq631hqI9AAAL] 
 13.6.2024, 17:24:46 - INFO - User: 2 is watching stay: Azamra Amirim 
 13.6.2024, 17:24:46 - INFO - Emiting event: user-watching to user: 6665975962b40552f2941b54 socket [id: hYWEh6niYtRnj73XAAAF] 
+17.6.2024, 16:47:04 - INFO - Connected to DB 
+17.6.2024, 16:47:04 - INFO - Connected to DB 
+17.6.2024, 16:47:05 - INFO - New connected socket [id: OtuMmFr7y2TT1-mUAAAB] 
+17.6.2024, 16:47:06 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 16:47:06 - INFO - New connected socket [id: gVmqG8IB2vNYON4HAAAD] 
+17.6.2024, 17:18:42 - INFO - Connected to DB 
+17.6.2024, 17:18:42 - INFO - Connected to DB 
+17.6.2024, 17:20:25 - INFO - New connected socket [id: 7HQ7RAl7J0DHu-g1AAAB] 
+17.6.2024, 17:21:38 - ERROR - Failed to Login Unkown username 
+17.6.2024, 17:21:39 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 17:21:39 - INFO - New connected socket [id: qoCQC46W0sdQRwRDAAAD] 
+17.6.2024, 17:21:57 - ERROR - Failed to Login Unkown username 
+17.6.2024, 17:21:57 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 17:21:58 - INFO - New connected socket [id: Si1ZpOeNCfQOc946AAAF] 
+17.6.2024, 17:23:47 - INFO - Connected to DB 
+17.6.2024, 17:23:47 - INFO - Connected to DB 
+17.6.2024, 17:23:49 - INFO - New connected socket [id: 4MYJurPOd8eg6laBAAAB] 
+17.6.2024, 17:24:32 - INFO - User login:  | {"_id":"666ff2ea3381a4520771f8a1","fullname":"Ori","imgUrl":"https://res.cloudinary.com/dqti9icif/image/upload/3_ezuwiw"} 
+17.6.2024, 17:24:32 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: 4MYJurPOd8eg6laBAAAB] 
+17.6.2024, 17:24:58 - INFO - New connected socket [id: ELdkUu_t2BbyofD_AAAD] 
+17.6.2024, 17:25:10 - ERROR - Failed to Login Unkown username 
+17.6.2024, 17:25:10 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 17:25:11 - INFO - New connected socket [id: K2dyXCuzpiZrZTA_AAAF] 
+17.6.2024, 17:25:38 - ERROR - Failed to Login Unkown username 
+17.6.2024, 17:25:38 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 17:25:39 - INFO - New connected socket [id: 8h2OMTCBiaGgxMC0AAAH] 
+17.6.2024, 17:26:16 - INFO - Connected to DB 
+17.6.2024, 17:26:16 - INFO - Connected to DB 
+17.6.2024, 17:26:18 - INFO - New connected socket [id: Mh_zxSGoTAkyXanoAAAB] 
+17.6.2024, 17:26:21 - INFO - New connected socket [id: 9qJYi1mo50LM4QVoAAAD] 
+17.6.2024, 17:26:21 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: 9qJYi1mo50LM4QVoAAAD] 
+17.6.2024, 17:26:26 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 17:26:26 - INFO - New connected socket [id: nUEuadLwkTIU4uNJAAAF] 
+17.6.2024, 17:26:27 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: nUEuadLwkTIU4uNJAAAF] 
+17.6.2024, 17:26:28 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 17:26:29 - INFO - New connected socket [id: IC7ntawn1JDuMsV3AAAH] 
+17.6.2024, 17:26:46 - INFO - User login:  | {"_id":"666f03ccf8fd206de8111ac4","fullname":"tal","imgUrl":"https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"} 
+17.6.2024, 17:26:46 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: IC7ntawn1JDuMsV3AAAH] 
+17.6.2024, 17:26:51 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+17.6.2024, 17:26:51 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: nUEuadLwkTIU4uNJAAAF] 
+17.6.2024, 17:27:50 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 17:27:50 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 21:34:31 - INFO - New connected socket [id: ISycZT_QuQW82xzaAAAJ] 
+17.6.2024, 21:34:38 - INFO - New connected socket [id: E_0g-__qS-TTuMvJAAAL] 
+17.6.2024, 21:36:28 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 21:36:28 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 21:36:29 - INFO - New connected socket [id: 1FHaoEkEhJxWJcbxAAAN] 
+17.6.2024, 21:36:30 - INFO - New connected socket [id: CuploKELxkuDgIRAAAAP] 
+17.6.2024, 21:36:30 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: 1FHaoEkEhJxWJcbxAAAN] 
+17.6.2024, 21:36:30 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: CuploKELxkuDgIRAAAAP] 
+17.6.2024, 21:36:31 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: CuploKELxkuDgIRAAAAP] 
+17.6.2024, 21:36:31 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+17.6.2024, 21:36:55 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 21:36:55 - INFO - New connected socket [id: qttgWWntEpWoJ8GaAAAR] 
+17.6.2024, 21:36:56 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: qttgWWntEpWoJ8GaAAAR] 
+17.6.2024, 21:36:56 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+17.6.2024, 21:36:56 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: CuploKELxkuDgIRAAAAP] 
+17.6.2024, 21:41:43 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 21:41:44 - INFO - New connected socket [id: zqZPn3rV6r5eLKDQAAAT] 
+17.6.2024, 21:41:44 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: zqZPn3rV6r5eLKDQAAAT] 
+17.6.2024, 21:41:45 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+17.6.2024, 21:41:45 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: CuploKELxkuDgIRAAAAP] 
+17.6.2024, 21:42:23 - INFO - Socket disconnected [id: undefined] 
+17.6.2024, 21:42:23 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 0:49:18 - INFO - New connected socket [id: m4WV-N8jhYZovtvYAAAW] 
+18.6.2024, 0:49:21 - INFO - New connected socket [id: yd5qoNFfpN70bxkJAAAX] 
+18.6.2024, 0:51:27 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 0:51:28 - INFO - New connected socket [id: WKlbsYk4TfYmspuZAAAZ] 
+18.6.2024, 0:51:29 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: WKlbsYk4TfYmspuZAAAZ] 
+18.6.2024, 0:51:29 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 0:51:29 - INFO - No active socket for user: 666ff2ea3381a4520771f8a1 
+18.6.2024, 0:53:28 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 0:53:31 - INFO - New connected socket [id: KclzDSzVF_oI-VDMAAAb] 
+18.6.2024, 0:53:32 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: KclzDSzVF_oI-VDMAAAb] 
+18.6.2024, 0:53:32 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 0:53:34 - INFO - New connected socket [id: DxH7JfZ4C77FoIPKAAAd] 
+18.6.2024, 0:53:34 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: DxH7JfZ4C77FoIPKAAAd] 
+18.6.2024, 0:53:35 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 0:53:35 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: KclzDSzVF_oI-VDMAAAb] 
+18.6.2024, 0:55:46 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 0:55:46 - INFO - New connected socket [id: eESsCjCRNmVS3rPXAAAf] 
+18.6.2024, 0:55:47 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: eESsCjCRNmVS3rPXAAAf] 
+18.6.2024, 0:55:47 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 0:55:47 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: KclzDSzVF_oI-VDMAAAb] 
+18.6.2024, 0:56:55 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 0:56:56 - INFO - New connected socket [id: JFsLXdZKw6aWNNbwAAAh] 
+18.6.2024, 0:56:56 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: JFsLXdZKw6aWNNbwAAAh] 
+18.6.2024, 0:56:56 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 0:56:56 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: KclzDSzVF_oI-VDMAAAb] 
+18.6.2024, 0:57:22 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 0:57:23 - INFO - New connected socket [id: zSQhWnGKMW6E8anyAAAj] 
+18.6.2024, 0:57:23 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: zSQhWnGKMW6E8anyAAAj] 
+18.6.2024, 0:57:23 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 0:57:23 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: KclzDSzVF_oI-VDMAAAb] 
+18.6.2024, 1:01:47 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:01:48 - INFO - New connected socket [id: FHnAkU4sjT9Jw0zSAAAl] 
+18.6.2024, 1:01:48 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: FHnAkU4sjT9Jw0zSAAAl] 
+18.6.2024, 1:01:58 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:01:59 - INFO - New connected socket [id: RkCfs2ou3uyxgTNmAAAn] 
+18.6.2024, 1:01:59 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: RkCfs2ou3uyxgTNmAAAn] 
+18.6.2024, 1:01:59 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:01:59 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: FHnAkU4sjT9Jw0zSAAAl] 
+18.6.2024, 1:05:14 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:05:16 - INFO - New connected socket [id: Oi8smu8Z7s7mKwsWAAAp] 
+18.6.2024, 1:05:16 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: Oi8smu8Z7s7mKwsWAAAp] 
+18.6.2024, 1:05:23 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:05:24 - INFO - New connected socket [id: dTOciY1ouC-UXVcoAAAr] 
+18.6.2024, 1:05:24 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: dTOciY1ouC-UXVcoAAAr] 
+18.6.2024, 1:05:24 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:05:24 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: Oi8smu8Z7s7mKwsWAAAp] 
+18.6.2024, 1:05:58 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:05:59 - INFO - New connected socket [id: XymFhQ24eBsGqyUsAAAt] 
+18.6.2024, 1:06:00 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: XymFhQ24eBsGqyUsAAAt] 
+18.6.2024, 1:06:00 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:06:00 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: Oi8smu8Z7s7mKwsWAAAp] 
+18.6.2024, 1:06:02 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:06:04 - INFO - New connected socket [id: NZJFFSR9tL4n6epNAAAv] 
+18.6.2024, 1:06:04 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: NZJFFSR9tL4n6epNAAAv] 
+18.6.2024, 1:06:11 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:06:12 - INFO - New connected socket [id: 6z_x0KDOapRfcd8pAAAx] 
+18.6.2024, 1:06:12 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: 6z_x0KDOapRfcd8pAAAx] 
+18.6.2024, 1:06:13 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:06:13 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: NZJFFSR9tL4n6epNAAAv] 
+18.6.2024, 1:08:22 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:08:24 - INFO - New connected socket [id: cQHF9C79fxkUQ6HcAAAz] 
+18.6.2024, 1:08:24 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: cQHF9C79fxkUQ6HcAAAz] 
+18.6.2024, 1:08:31 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:08:32 - INFO - New connected socket [id: EfzH2Klh059cQYuFAAA1] 
+18.6.2024, 1:08:32 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: EfzH2Klh059cQYuFAAA1] 
+18.6.2024, 1:08:32 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: cQHF9C79fxkUQ6HcAAAz] 
+18.6.2024, 1:08:32 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:10:04 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:10:05 - INFO - New connected socket [id: 4p3k9BPv2T2fU3rDAAA3] 
+18.6.2024, 1:10:05 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: 4p3k9BPv2T2fU3rDAAA3] 
+18.6.2024, 1:10:05 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:10:05 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: cQHF9C79fxkUQ6HcAAAz] 
+18.6.2024, 1:12:32 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:12:35 - INFO - New connected socket [id: NbigvD_kWZg_b3AaAAA5] 
+18.6.2024, 1:12:36 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: NbigvD_kWZg_b3AaAAA5] 
+18.6.2024, 1:12:41 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:12:41 - INFO - New connected socket [id: cmhu7nABH-HWL5h4AAA7] 
+18.6.2024, 1:12:41 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: cmhu7nABH-HWL5h4AAA7] 
+18.6.2024, 1:12:42 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:12:42 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: NbigvD_kWZg_b3AaAAA5] 
+18.6.2024, 1:14:04 - INFO - Connected to DB 
+18.6.2024, 1:14:05 - INFO - Connected to DB 
+18.6.2024, 1:14:06 - INFO - New connected socket [id: PGTDEj952oR5J5rbAAAB] 
+18.6.2024, 1:14:06 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: PGTDEj952oR5J5rbAAAB] 
+18.6.2024, 1:14:10 - INFO - New connected socket [id: 4gu4WhJgqjrLsPCxAAAD] 
+18.6.2024, 1:14:10 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:14:11 - INFO - New connected socket [id: p-ROP9cbV5Df_E8cAAAF] 
+18.6.2024, 1:14:12 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: p-ROP9cbV5Df_E8cAAAF] 
+18.6.2024, 1:14:23 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:14:23 - INFO - No active socket for user: 666ff2ea3381a4520771f8a1 
+18.6.2024, 1:14:43 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:14:44 - INFO - New connected socket [id: oxy1G3N_CjJu6_NfAAAH] 
+18.6.2024, 1:14:45 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: oxy1G3N_CjJu6_NfAAAH] 
+18.6.2024, 1:14:52 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:14:53 - INFO - New connected socket [id: BIb4iuBOnpVt8SHqAAAJ] 
+18.6.2024, 1:14:54 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: BIb4iuBOnpVt8SHqAAAJ] 
+18.6.2024, 1:14:54 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:14:54 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: oxy1G3N_CjJu6_NfAAAH] 
+18.6.2024, 1:17:26 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:17:27 - INFO - New connected socket [id: 0FG-6jXPsFc5wpieAAAL] 
+18.6.2024, 1:17:28 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: 0FG-6jXPsFc5wpieAAAL] 
+18.6.2024, 1:17:28 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:17:28 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: oxy1G3N_CjJu6_NfAAAH] 
+18.6.2024, 1:17:30 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:17:32 - INFO - New connected socket [id: bECAIdldhEE88unaAAAN] 
+18.6.2024, 1:17:32 - INFO - SOCKET Setting socket.userId = 666ff2ea3381a4520771f8a1 for socket [id: bECAIdldhEE88unaAAAN] 
+18.6.2024, 1:17:38 - INFO - Socket disconnected [id: undefined] 
+18.6.2024, 1:17:40 - INFO - New connected socket [id: myfAYdfMT-YPQQneAAAP] 
+18.6.2024, 1:17:40 - INFO - SOCKET Setting socket.userId = 666f03ccf8fd206de8111ac4 for socket [id: myfAYdfMT-YPQQneAAAP] 
+18.6.2024, 1:17:41 - INFO - User: tal is watching stay: Westin Kaanapali KORVN 2BR 
+18.6.2024, 1:17:41 - INFO - Emiting event: user-watching to user: 666ff2ea3381a4520771f8a1 socket [id: bECAIdldhEE88unaAAAN] 
+18.6.2024, 1:17:45 - INFO - Socket disconnected [id: undefined] 
