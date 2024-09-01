@@ -1,4 +1,4 @@
 export default {
-    dbURL: 'mongodb+srv://taloreff:3sSn2ZD1p19GjruU@staybnb.bzx3y9d.mongodb.net/',
+    dbURL: 'mongodb+srv://taloreff:X4RVNfsp6KCJVPs3@staybnb.bzx3y9d.mongodb.net/',
     dbName: 'Staybnb',
 }

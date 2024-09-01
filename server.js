@@ -11,7 +11,7 @@ config();
 const app = express();
 const server = createServer(app);
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 
 if (process.env.NODE_ENV === 'production') {
   console.log('production');
@@ -20,8 +20,8 @@ if (process.env.NODE_ENV === 'production') {
   console.log('development');
   const corsOptions = {
     origin: [
-      'http://127.0.0.1:5000',
-      'http://localhost:5000',
+      'http://127.0.0.1:5001',
+      'http://localhost:5001',
       'http://127.0.0.1:5173',
       'http://localhost:5173',
       'https://staybnb-backend.onrender.com',
